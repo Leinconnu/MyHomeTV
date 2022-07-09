@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,http://api.catcast.tv/api/timetable/epg.xml?channel_ids=38850,38821,38896,39484,38801,39161" cache="500"
+#EXTM3U
 #EXTINF:-1 tvg-name="Первый канал" tvg-logo="https://assets.iptv2022.com/static/channel/105/logo_128_1652790001.png" group-title="Без группы", Первый канал
 #EXTGRP:Без группы
 http://mhd110.iptv2022.com/p/29dCFXRGqzMMbRiagdO-oQ,1655195470/streaming/1kanalott/324/1/index.m3u8
