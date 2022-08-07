@@ -11,12 +11,10 @@ http://mhd110.iptv2022.com/p/TngONTej_9jcJfTZ4NJtuw,1655195470/streaming/matchot
 #EXTINF:-1 tvg-name="НТВ" tvg-logo="https://assets.iptv2022.com/static/channel/10100/logo_128_1652790001.png" group-title="Без группы", НТВ
 #EXTGRP:Без группы
 http://mhd110.iptv2022.com/p/gAuB8bKq4CuKC3GEfUkmUA,1655195470/streaming/ntvnn/324/1/index.m3u8
-#EXTINF:-1 tvg-name="НТВ Мир"
-tvg-logo="https://assets.iptv2022.com/static/channel/10100/logo_128_1652790001.png" group-title="Без группы", НТВ мир
+#EXTINF:-1,НТВ Мир
 #EXTGRP:Без группы
 http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
-#EXTINF:-1 tvg-name="НТВ Мир"
-tvg-logo="https://assets.iptv2022.com/static/channel/10100/logo_128_1652790001.png" group-title="Без группы", НТВ мир
+#EXTINF:-1,НТВ Мир
 #EXTGRP:Без группы
 https://sc.id-tv.kz:443/NTV_34_35.m3u8
 #EXTINF:-1 tvg-name="Пятый канал" tvg-logo="https://assets.iptv2022.com/static/channel/3/logo_128_1652790001.png" group-title="Без группы", Пятый канал
