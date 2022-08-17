@@ -1,0 +1,1409 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz" 
+#EXTINF:-1 group-title="Телеканали",Авто 24
+http://185.235.187.10:8888/play/avto24/index.m3u8
+#EXTINF:-1 group-title="Телеканали",АВТО 24
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5528
+#EXTINF:-1 group-title="Телеканали",Авто 24
+http://91.219.23.234:8000/play/94/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Авто Плюс
+http://myott.top/stream/DT6QU63K5VX/186.m3u8
+#EXTINF:-1 group-title="Телеканали",Авто плюс
+http://91.219.23.234:8000/play/377/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Познавательныеavto plyus_d0httpmfecliptvazdashavtoplussdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Авто плюс
+http://mfe.cliptv.az/dash/Avto_Plus_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Авто24
+http://myott.top/stream/DT6QU63K5VX/78.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Познавательныеavto24_d0httpmfecliptvazdashavto24sdismplaylistmpd00" catchup-days="7" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",АВТО24
+http://mfe.cliptv.az/dash/Avto_24_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Автомобильный HD
+http://myott.top/stream/DT6QU63K5VX/404.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/badc3be0d3e551e771cef1e0eff3610c_high.png" group-title="Телеканали",Апостроф TV
+https://cdnua03.hls.tv/178/hls/4wkzivt2unpg5hmj36cyasod0197q8re/4730/stream.m3u8
+#EXTINF:-1 tvg-id="aris24" tvg-logo="http://iptvxpix.ml/aris24.png" group-title="Телеканали",Арис 24
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/112.m3u8
+#EXTINF:-1 group-title="Телеканали",АРМЕНИЯ РАЗВЛЕКАТЕЛЬНЫЙ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5366
+#EXTINF:-1 tvg-id="arxyz24" tvg-logo="http://iptvxpix.ml/arxyz24.png" group-title="Телеканали",Архыз 24
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/115.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Астана ТВ (Казахстан)
+http://myott.top/stream/DT6QU63K5VX/28.m3u8
+#EXTINF:-1 tvg-id="astraxan24" tvg-logo="http://iptvxpix.ml/astraxan24.png" group-title="Телеканали",Астрахань 24
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/116.m3u8
+#EXTINF:-1 tvg-logo="https://sport.astrakhan.ru/image/logo-astrakhan-sport.png" group-title="Телеканали",Астрахань.Ru Sport
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/117.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LxVcYxW.jpeg" group-title="Телеканали",Астрахань.Ru TV
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/118.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NV2ViYx.png" group-title="Телеканали",Афонтово (Красноярск)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/119.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Бiгудi
+http://myott.top/stream/DT6QU63K5VX/340.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Иностранныеbelarus` 24_d0httpmfecliptvazdashmiruvleceniysdismplaylistmpd00" catchup-days="3" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Беларусь 24
+http://mfe.cliptv.az/dash/Mir_Uvleceniy_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="belgorod24" tvg-logo="http://iptvxpix.ml/belgorod24.png" group-title="Телеканали",Белгород 24
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/122.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/fe603ef3349915feea6b197c298bb5f5_high.png" group-title="Телеканали",Бігуді
+https://cdnua03.hls.tv/178/hls/yzpab4m38uq9cgk5txnlhs1jdr2eov6w/96/stream.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Блокбастер HD
+http://myott.top/stream/DT6QU63K5VX/364.m3u8
+#EXTINF:-1 group-title="Телеканали",Блокбастер HD
+http://91.219.23.234:8000/play/80/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Бобер
+http://myott.top/stream/DT6QU63K5VX/197.m3u8
+#EXTINF:-1 group-title="Телеканали",Бобер
+http://185.235.187.10:8888/play/bober/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Бобёр
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5546
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Познавательныеbobyor_d0httpmfecliptvazdashbobyortvsdismxxxzplaylistmpd00" catchup-days="7" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Бобёр
+http://mfe.cliptv.az/dash/Bobyor_TV_SD.ism_xxxz/playlist.mpd
+#EXTINF:-1 tvg-id="bobior" tvg-logo="http://iptvxpix.ml/bober.png" group-title="Телеканали",Бобёр
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2714.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Бокс ТВ
+http://myott.top/stream/DT6QU63K5VX/154.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2285.png" group-title="Телеканали",Бокс ТВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5469
+#EXTINF:-1 group-title="Телеканали",Бокс ТВ
+http://185.235.187.10:8888/play/boks_tv/index.m3u8
+#EXTINF:-1 tvg-id="box-tv" tvg-logo="http://iptvxpix.ml/box-tv.png" group-title="Телеканали",Бокс ТВ
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2291.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/0f1716f8b8a4d8486db871edc6a6fe1e_high.png" group-title="Телеканали",Болт HD
+https://cdnua03.hls.tv/178/hls/u0o1i8czl53q4xsnf2ykw76hav9germt/3963/stream.m3u8
+#EXTINF:-1 group-title="Телеканали",Большая азия
+http://91.219.23.234:8000/play/534/index.m3u8
+#EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="http://iptvxpix.ml/bolshaya-azia.png" group-title="Телеканали",Большая Азия HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2715.m3u8
+#EXTINF:-1 group-title="Телеканали",БСТ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5159
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",В гостях у сказки
+http://myott.top/stream/DT6QU63K5VX/93.m3u8
+#EXTINF:-1 group-title="Телеканали",В гостях у сказки
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/3052.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",В мире животных HD
+http://myott.top/stream/DT6QU63K5VX/241.m3u8
+#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="http://iptvxpix.ml/v-mire-zhivotnyx.png" group-title="Телеканали",В мире животных HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2716.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/55846/2a00000158de05f9d1b65984a0e705878a69/160x120" group-title="Телеканали",Ветта 24 (Пермь)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/129.m3u8
+#EXTINF:-1 tvg-id="vechernyaya-moskva" tvg-logo="http://iptvxpix.ml/vechernyaya-moskva.png" group-title="Телеканали",Вечерняя Москва
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/130.m3u8
+#EXTINF:-1 group-title="Телеканали",Видеокассета HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2932.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/68ea43d58f52c5763e917380f9174900_high.png" group-title="Телеканали",Вінтаж
+https://cdnua03.hls.tv/178/hls/sea1y5jolvkuwtz0h732dpm68bgiq4cn/97/stream.m3u8
+#EXTINF:-1 group-title="Телеканали",ВОЛГА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5163
+#EXTINF:-1 group-title="Телеканали",Вопросы и ответы
+http://91.219.23.234:8000/play/31/index.m3u8
+#EXTINF:-1 group-title="Телеканали",ВРЕМЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5536
+#EXTINF:-1 group-title="Телеканали",Время
+http://91.219.23.234:8000/play/564/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Глазами туриста
+http://91.219.23.234:8000/play/149/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Глазами Туриста 4K
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2720.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Глазами Туриста HD
+http://myott.top/stream/DT6QU63K5VX/304.m3u8
+#EXTINF:-1 tvg-id="glazami-turista" tvg-logo="http://iptvxpix.ml/glazami-turista.png" group-title="Телеканали",Глазами туриста HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2722.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/ead883dc6a1cb261b843888244ab95d3_high.png" group-title="Телеканали",Глас
+https://cdnua03.hls.tv/178/hls/ous45vi80kdwegb2hmj69nly13xac7tz/101/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F1JgJs1.jpg" group-title="Телеканали",Городской телеканал (Ярославль)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/138.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="Телеканали",Губерния (Самара)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/140.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/svJXsxD.png" group-title="Телеканали",Губерния 33 (Владимир)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/139.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Дача HD
+http://myott.top/stream/DT6QU63K5VX/370.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/ea3cd3e1e718cc9637e70ca25d78ef8a_high.png" group-title="Телеканали",Дача HD
+https://cdnua03.hls.tv/178/hls/2ix8trv7e1q6klaoj9wyz4mc3dnbfush/454/stream.m3u8
+#EXTINF:-1 group-title="Телеканали",Детский мир
+http://91.219.23.234:8000/play/62/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Детскиеdetskij mir_d0httpmfecliptvazdashdetskiymirsdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Детский мир
+http://mfe.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",Детский мир
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/3038.m3u8
+#EXTINF:-1 tvg-id="detskoe-kino" tvg-logo="http://iptvxpix.ml/detskoe-kino.png" group-title="Телеканали",Детское кино HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2093.m3u8
+#EXTINF:-1 group-title="Телеканали",Детское кино International
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2950.m3u8
+#EXTINF:-1 tvg-id="detskoe-kino" tvg-logo="http://iptvxpix.ml/detskoe-kino.png" group-title="Телеканали",Детское кино International
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2094.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Диалоги о рыбалке
+http://myott.top/stream/DT6QU63K5VX/264.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Дикая Охота HD
+http://myott.top/stream/DT6QU63K5VX/274.m3u8
+#EXTINF:-1 group-title="Телеканали",ДИКАЯ РЫБАЛКА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5563
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Дикая Рыбалка HD
+http://myott.top/stream/DT6QU63K5VX/275.m3u8
+#EXTINF:-1 group-title="Телеканали",ДИКИЙ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5558
+#EXTINF:-1 group-title="Телеканали",Дикий
+http://91.219.23.234:8000/play/61/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Познавательныеdikij_d0httpmfecliptvazdashdikiysdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Дикий
+http://mfe.cliptv.az/dash/Dikiy_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://dimgrad24.ru/images/new/favicon.png" group-title="Телеканали",Димград 24 HD
+http://live-1.otcnet.ru/dimgrad/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Доктор
+http://myott.top/stream/DT6QU63K5VX/80.m3u8
+#EXTINF:-1 group-title="Телеканали",Доктор
+http://185.235.187.10:8888/play/dok/index.m3u8
+#EXTINF:-1 group-title="Телеканали",ДОКТОР
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5527
+#EXTINF:-1 group-title="Телеканали",Доктор
+http://91.219.23.234:8000/play/258/index.m3u8
+#EXTINF:-1 tvg-id="doktor" tvg-logo="http://iptvxpix.ml/doktor.png" group-title="Телеканали",Доктор
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2729.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/fc8156d1984079eb448b6bf0989951b6_high.png" group-title="Телеканали",Дом
+https://cdnua03.hls.tv/178/hls/03kndtzv1swlbc94qa6fuher2p5o8jx7/4780/stream.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Дом HD
+http://myott.top/stream/DT6QU63K5VX/383.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Дом Кино
+http://myott.top/stream/DT6QU63K5VX/236.m3u8
+#EXTINF:-1 group-title="Телеканали",ДОМ КИНО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5077
+#EXTINF:-1 group-title="Телеканали",Дом Кино
+http://91.219.23.234:8000/play/563/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Дом Кино Премиум HD
+http://myott.top/stream/DT6QU63K5VX/108.m3u8
+#EXTINF:-1 group-title="Телеканали",Дом Кино Премиум HD
+http://185.235.187.10:8888/play/a017/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноdom kino premium_d0httpmfecliptvazdashdomkinopremiumhdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Дом кино премиум HD
+http://mfe.cliptv.az/dash/Dom_Kino_Premium_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",ДОМАШНИЕ ЖИВОТНЫЕ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5537
+#EXTINF:-1 group-title="Телеканали",Домашние животные
+http://91.219.23.234:8000/play/30/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Домашние животные
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/3034.m3u8
+#EXTINF:-1 group-title="Телеканали",Домашний
+http://185.235.187.10:8888/play/domashniy/index.m3u8
+#EXTINF:-1 group-title="Телеканали",ДОМАШНИЙ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5132
+#EXTINF:-1 group-title="Телеканали",Домашний
+http://91.219.23.234:8000/play/14/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Общероссийскиеdomashnij_d0httpmfecliptvazdashdomashniysdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Домашний
+http://mfe.cliptv.az/dash/Domashniy_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",ДОРАМА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5100
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/139da53409095eae461f9baeddf88caf_high.png" group-title="Телеканали",Дорама HD
+https://cdnua03.hls.tv/178/hls/jmoz0gst617a3y9nk5bxr8ed4plcq2hi/4247/stream.m3u8
+#EXTINF:-1 group-title="Телеканали",Драйв
+http://91.219.23.234:8000/play/32/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Душевное HD
+http://myott.top/stream/DT6QU63K5VX/213.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GFG465N.jpg" group-title="Телеканали",Евразия (Орск)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/153.m3u8
+#EXTINF:-1 group-title="Телеканали",Еврокино
+http://185.235.187.10:8888/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Телеканали",ЕВРОКИНО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5074
+#EXTINF:-1 group-title="Телеканали",Еврокино
+http://91.219.23.234:8000/play/311/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноevrokino_d0httpmfecliptvazdashevrokinosdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Еврокино
+http://mfe.cliptv.az/dash/Evrokino_SD.ism/playlist.mpd
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Новостиevronovosti_d0httpmfecliptvazdashevronovostisdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Евроновости
+http://mfe.cliptv.az/dash/Evronovosti_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",ЕДА Премиум FHD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2737.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Еда Премиум HD
+http://myott.top/stream/DT6QU63K5VX/216.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/a8cf00c304ec5414d9f2e2427166ea4c_high.png" group-title="Телеканали",Еко ТБ
+https://cdnua03.hls.tv/178/hls/cn29ey4rx7dm51hjviqg8afz0w36bost/165/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/cdbda309881c4a5d5aab0c4b190aea77_high.png" group-title="Телеканали",Епоха
+https://cdnua03.hls.tv/178/hls/5780njwqbzruhi2kopm4cyxt3gf9dsea/4216/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/8c508744259ac5ed53ff14170852765a_high.png" group-title="Телеканали",Еспресо HD
+https://cdnua03.hls.tv/178/hls/4w31hn8pcuqjfo6vdkxlm025ierzbagy/3968/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/0903f2f620cb121530d8b72c55bd2722_high.png" group-title="Телеканали",Етно Канал HD
+https://cdnua03.hls.tv/178/hls/n9wrudvc10ejkmztpsqfgy2abi4h685x/456/stream.m3u8
+#EXTINF:-1 group-title="Телеканали",Жара
+http://91.219.23.234:8000/play/682/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Музыкаzhara_d0http185161224216dashjaratvsdismplaylistmpd00" catchup-days="3" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Жара
+http://185.161.224.216/dash/JaraTv_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Жара HD
+http://myott.top/stream/DT6QU63K5VX/386.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Живая планета
+http://myott.top/stream/DT6QU63K5VX/83.m3u8
+#EXTINF:-1 group-title="Телеканали",ЖИВАЯ ПЛАНЕТА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5575
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Живая природа HD
+http://myott.top/stream/DT6QU63K5VX/225.m3u8
+#EXTINF:-1 group-title="Телеканали",Живая природа HD
+http://91.219.23.234:8000/play/150/index.m3u8
+#EXTINF:-1 tvg-id="zhivaya-priroda" tvg-logo="http://iptvxpix.ml/zhivaya-priroda.png" group-title="Телеканали",Живая природа HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2739.m3u8
+#EXTINF:-1 group-title="Телеканали",Живая природа HD orig
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2894.m3u8
+#EXTINF:-1 group-title="Телеканали",ЖИВИ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5145
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Познавательныеzagorodnaya zhizn`_d0httpmfecliptvazdashzagorodnayajiznsdismplaylistmpd00" catchup-days="7" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Загородная жизнь
+http://mfe.cliptv.az/dash/Zagorodnaya_Jizn_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",ЗАГОРОДНЫЙ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5158
+#EXTINF:-1 group-title="Телеканали",Загородный int HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2741.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Закон HD
+http://myott.top/stream/DT6QU63K5VX/406.m3u8
+#EXTINF:-1 group-title="Телеканали",ЗВЕЗДА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5136
+#EXTINF:-1 group-title="Телеканали",Звезда
+http://91.219.23.234:8000/play/17/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Общероссийскиеzvezda_d0httpmfecliptvazdashzvezdasd12q2ismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Звезда
+http://mfe.cliptv.az/dash/Zvezda_SD_12q2.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",ЗОО ТВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5574
+#EXTINF:-1 group-title="Телеканали",Зоо ТВ
+http://91.219.23.234:8000/play/522/index.m3u8
+#EXTINF:-1 group-title="Телеканали",ЗООПАРК
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5547
+#EXTINF:-1 group-title="Телеканали",Зоопарк
+http://91.219.23.234:8000/play/523/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/48e4d1469c117fdacfeff913004b81aa_high.png" group-title="Телеканали",Зоряний
+https://cdnua03.hls.tv/178/hls/76suke20if9c4dt13gnmowvjpbr58qyh/4803/stream.m3u8
+#EXTINF:-1 group-title="Телеканали",Иллюзион +
+http://91.219.23.234:8000/play/35/index.m3u8
+#EXTINF:-1 group-title="Телеканали",ИЛЛЮЗИОН+
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5104
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Индийское кино
+http://myott.top/stream/DT6QU63K5VX/104.m3u8
+#EXTINF:-1 group-title="Телеканали",Индийское кино
+http://185.235.187.10:8888/play/indiyskoe_kino/index.m3u8
+#EXTINF:-1 group-title="Телеканали",ИНДИЙСКОЕ КИНО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5071
+#EXTINF:-1 group-title="Телеканали",Индийское кино
+http://91.219.23.234:8000/play/550/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноindijskoe kino_d0httpmfecliptvazdashindiyskoekinosdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Индийское кино
+http://mfe.cliptv.az/dash/Indiyskoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Интер HD
+http://myott.top/stream/DT6QU63K5VX/174.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Интер+ HD
+http://myott.top/stream/DT6QU63K5VX/345.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",История
+http://myott.top/stream/DT6QU63K5VX/228.m3u8
+#EXTINF:-1 group-title="Телеканали",История
+http://185.235.187.10:8888/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Телеканали",ИСТОРИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5522
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/1729dac27659009b31cec875b1cb7ffd_high.png" group-title="Телеканали",Індиго TV HD
+https://cdnua03.hls.tv/178/hls/wcktfx4p86vamhb9gd3lzsu1orni02jy/4595/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/729a5225684b6c486438c299c8e732e8_high.png" group-title="Телеканали",Інтер
+https://cdnua03.hls.tv/178/hls/qr4aw2kh86bovjey1uf3ncpdzs09gm7x/110/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/f5e2237893adb177b326792511d280f1_high.png" group-title="Телеканали",Ісландія
+https://cdnua03.hls.tv/178/hls/93v8uq0aofp1gmx5h6wyrcinbzl4dsk2/4727/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/88b210237de6d09e1005bf8fbde5f390_high.png" group-title="Телеканали",К1
+https://cdnua03.hls.tv/178/hls/u0d6o95gcmk7pfnyvaew4itlsqh1zx2b/113/stream.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",К1 HD
+http://myott.top/stream/DT6QU63K5VX/270.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/81070e4410be40f1719975062efb74e4_high.png" group-title="Телеканали",К2
+https://cdnua03.hls.tv/178/hls/luew0zm35qohxt12vpkjcis7r8aby46n/114/stream.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",К2 HD
+http://myott.top/stream/DT6QU63K5VX/324.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k1S93ZM.jpeg" group-title="Телеканали",К16 (Саров)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/168.m3u8
+#EXTINF:-1 group-title="Телеканали",Калейдоскоп ТВ
+http://91.219.23.234:8000/play/66/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Камеди HD
+http://91.219.23.234:8000/play/409/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/047b4ee39781d345bbf960e5bf685c04_high.png" group-title="Телеканали",Канал 24 HD
+https://cdnua03.hls.tv/178/hls/mn07re3lxyvasgqz54hpuifbc1kdj28w/3965/stream.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Канал Disney
+http://myott.top/stream/DT6QU63K5VX/118.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Канал О!
+http://myott.top/stream/DT6QU63K5VX/60.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Капитан Фантастика HD
+http://myott.top/stream/DT6QU63K5VX/144.m3u8
+#EXTINF:-1 tvg-id="ginger-hd" tvg-logo="http://iptvxpix.ml/capfantast.png" group-title="Телеканали",Капитан Фантастика HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2116.m3u8
+#EXTINF:-1 group-title="Телеканали",Караван ТВ
+http://185.235.187.10:8888/play/a00k/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Карусель
+http://myott.top/stream/DT6QU63K5VX/120.m3u8
+#EXTINF:-1 group-title="Телеканали",Карусель
+http://185.235.187.10:8888/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Карусель
+http://91.219.23.234:8000/play/8/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Общероссийскиеkarusel`_d0httpmfecliptvazdashkaruselsdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Карусель
+http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",Карусель
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/3042.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/e0ed454a7e35f2f1293917460b61f8b8_high.png" group-title="Телеканали",Квартал TV
+https://cdnua03.hls.tv/178/hls/gtpzcdjs8w4e7lfq2v9n0kum5rb3yx1h/3603/stream.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Квартал ТВ
+http://myott.top/stream/DT6QU63K5VX/321.m3u8
+#EXTINF:-1 group-title="Телеканали",Квартал ТВ
+http://185.235.187.10:8888/play/kvartal_tv/index.m3u8
+#EXTINF:-1 group-title="Телеканали",КВН ТВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5138
+#EXTINF:-1 group-title="Телеканали",КИНО 2 АРМЕНИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5363
+#EXTINF:-1 group-title="Телеканали",КИНО 3 АРМЕНИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5365
+#EXTINF:-1 group-title="Телеканали",КИНО 4 АРМЕНИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5369
+#EXTINF:-1 group-title="Телеканали",КИНО 5 АРМЕНИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5368
+#EXTINF:-1 group-title="Телеканали",КИНО АРМЕНИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5362
+#EXTINF:-1 group-title="Телеканали",Кино ТВ
+http://185.235.187.10:8888/play/a01o/index.m3u8
+#EXTINF:-1 group-title="Телеканали",КИНО ТВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5092
+#EXTINF:-1 group-title="Телеканали",Кино ТВ
+http://91.219.23.234:8000/play/561/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноkino tv_d0httpmfecliptvazdashkinotvhdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Кино ТВ
+http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",Кино ТВ HD
+http://91.219.23.234:8000/play/283/index.m3u8
+#EXTINF:-1 tvg-id="kinojam1" tvg-logo="http://iptvxpix.ml/kinojam1.png" group-title="Телеканали",Киноджем 1 HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2121.m3u8
+#EXTINF:-1 group-title="Телеканали",Кинозал 1
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/14.m3u8
+#EXTINF:-1 group-title="Телеканали",Кинозал 2
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/15.m3u8
+#EXTINF:-1 group-title="Телеканали",Кинозал 3
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/16.m3u8
+#EXTINF:-1 group-title="Телеканали",Кинозал 4
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/22.m3u8
+#EXTINF:-1 group-title="Телеканали",Кинозал! СССР
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2126.m3u8
+#EXTINF:-1 group-title="Телеканали",Кинозал! ХИТ HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2129.m3u8
+#EXTINF:-1 group-title="Телеканали",Кинокомедия
+http://185.235.187.10:8888/play/kinikomedia/index.m3u8
+#EXTINF:-1 group-title="Телеканали",КИНОКОМЕДИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5070
+#EXTINF:-1 group-title="Телеканали",Кинокомедия
+http://91.219.23.234:8000/play/560/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноkinokomediya_d0httpmfecliptvazdashkinokomediyasdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Кинокомедия
+http://mfe.cliptv.az/dash/Kinokomediya_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Кинокомедия HD
+http://myott.top/stream/DT6QU63K5VX/265.m3u8
+#EXTINF:-1 tvg-id="kinosat" group-title="Телеканали",Киноман (Киносат)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2131.m3u8
+#EXTINF:-1 group-title="Телеканали",Киномикс
+http://185.235.187.10:8888/play/kinomix/index.m3u8
+#EXTINF:-1 group-title="Телеканали",КИНОМИКС
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5063
+#EXTINF:-1 group-title="Телеканали",Киномикс
+http://91.219.23.234:8000/play/317/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноkinomiks_d0httpmfecliptvazdashkinomixsdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Киномикс
+http://mfe.cliptv.az/dash/Kinomix_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Киномикс HD
+http://myott.top/stream/DT6QU63K5VX/133.m3u8
+#EXTINF:-1 group-title="Телеканали",Кинопоказ
+http://91.219.23.234:8000/play/570/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Кинопоказ HD
+http://myott.top/stream/DT6QU63K5VX/64.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Кинопремьера HD
+http://myott.top/stream/DT6QU63K5VX/160.m3u8
+#EXTINF:-1 group-title="Телеканали",Кинопремьера HD
+http://185.235.187.10:8888/play/kinopremera_hd/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Кинопремьера HD
+http://91.219.23.234:8000/play/310/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноkinoprem`era hd_d0httpmfecliptvazdashkinopremierahdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Кинопремьера HD
+http://mfe.cliptv.az/dash/Kinopremiera_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",Киносат
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5108
+#EXTINF:-1 tvg-id="kinosat" tvg-logo="http://iptvxpix.ml/kinosat.png" group-title="Телеканали",Киносат
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2134.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Киносвидание
+http://myott.top/stream/DT6QU63K5VX/171.m3u8
+#EXTINF:-1 group-title="Телеканали",КИНОСВИДАНИЕ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5091
+#EXTINF:-1 group-title="Телеканали",Киносвидание
+http://91.219.23.234:8000/play/316/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноkinosvidanie_d0httpmfecliptvazdashkinosvidaniyesdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",КИНОСВИДАНИЕ
+http://mfe.cliptv.az/dash/Kinosvidaniye_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",Киносемья
+http://185.235.187.10:8888/play/kinosemya/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Киносемья
+http://91.219.23.234:8000/play/322/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноkinosem`ya_d0httpmfecliptvazdashkinosemyasdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",КИНОСЕМЬЯ
+http://mfe.cliptv.az/dash/Kinosemya_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Киносемья HD
+http://myott.top/stream/DT6QU63K5VX/170.m3u8
+#EXTINF:-1 group-title="Телеканали",Киносерия
+http://185.235.187.10:8888/play/kinoseria/index.m3u8
+#EXTINF:-1 group-title="Телеканали",КИНОСЕРИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5072
+#EXTINF:-1 group-title="Телеканали",Киносерия
+http://91.219.23.234:8000/play/312/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноkinoseriya_d0httpmfecliptvazdashkinoseriyasdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Киносерия
+http://mfe.cliptv.az/dash/Kinoseriya_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",КиноТВ HD
+http://myott.top/stream/DT6QU63K5VX/221.m3u8
+#EXTINF:-1 group-title="Телеканали",Киноужас
+http://91.219.23.234:8000/play/87/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Киноужас HD
+http://myott.top/stream/DT6QU63K5VX/278.m3u8
+#EXTINF:-1 group-title="Телеканали",Кинохит
+http://185.235.187.10:8888/play/kinohit/index.m3u8
+#EXTINF:-1 group-title="Телеканали",КИНОХИТ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5066
+#EXTINF:-1 group-title="Телеканали",Кинохит
+http://91.219.23.234:8000/play/259/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноkinokhit_d0httpmfecliptvazdashkinohitsdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",КИНОХИТ
+http://mfe.cliptv.az/dash/Kinohit_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Кинохит HD
+http://myott.top/stream/DT6QU63K5VX/126.m3u8
+#EXTINF:-1 group-title="Телеканали",Комедийное
+http://185.235.187.10:8888/play/a020/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Комедийное HD
+http://myott.top/stream/DT6QU63K5VX/74.m3u8
+#EXTINF:-1 group-title="Телеканали",Комедийное HD
+http://91.219.23.234:8000/play/147/index.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/1521843/2a00000175f4a4304593ef5a089f8aa21dfa/214x121" group-title="Телеканали",Конный Мир
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/183.m3u8
+#EXTINF:-1 tvg-id="korolev-tv" tvg-logo="http://iptvxpix.ml/korolev-tv.png" group-title="Телеканали",Королев ТВ
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1196.m3u8
+#EXTINF:-1 group-title="Телеканали",КРАСНАЯ ЛИНИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5171
+#EXTINF:-1 group-title="Телеканали",КРЫМ 24
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5169
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",КТК (Казахстан)
+http://myott.top/stream/DT6QU63K5VX/26.m3u8
+#EXTINF:-1 group-title="Телеканали",КТО ЕСТЬ КТО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5152
+#EXTINF:-1 group-title="Телеканали",Кто есть кто
+http://91.219.23.234:8000/play/88/index.m3u8
+#EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-logo="http://iptvxpix.ml/mir-uvlecheniy.png" group-title="Телеканали",Кто Куда
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2747.m3u8
+#EXTINF:-1 tvg-logo="https://bem-media.de/wp-content/uploads/Kulinar.png" group-title="Телеканали",Кулинар ТВ
+http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1 group-title="Телеканали",Кулинар ТВ
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1109.m3u8
+#EXTINF:-1 group-title="Телеканали",Культура
+http://185.235.187.10:8888/play/kultura/index.m3u8
+#EXTINF:-1 tvg-id="kuraj" tvg-logo="http://iptvxpix.ml/kuraj.png" group-title="Телеканали",Курай
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/191.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/92bb638412bd7ab85e79775e68c8a1fb_high.png" group-title="Телеканали",Кус Кус
+https://cdnua03.hls.tv/178/hls/1rz9dma8q3vbsolgxc0i6kf5u4jpte2w/4424/stream.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Кус-кус HD
+http://myott.top/stream/DT6QU63K5VX/195.m3u8
+#EXTINF:-1 group-title="Телеканали",КУХНЯ АРМЕНИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5367
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Кухня ТВ
+http://myott.top/stream/DT6QU63K5VX/179.m3u8
+#EXTINF:-1 group-title="Телеканали",Кухня ТВ
+http://185.235.187.10:8888/play/kuhnya_tv/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Кухня ТВ
+http://91.219.23.234:8000/play/723/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Кухняkukhnya tv_d0httpmfecliptvazdashkuxnyatvsdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Кухня ТВ
+http://mfe.cliptv.az/dash/Kuxnya_TV_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="kuxnia-tv" tvg-logo="http://iptvxpix.ml/kuhnia.png" group-title="Телеканали",Кухня ТВ
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2748.m3u8
+#EXTINF:-1 group-title="Телеканали",КХЛ
+http://91.219.23.234:8000/play/581/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Спортkkhl_d0httpmfecliptvazdashkhltvsdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",КХЛ
+http://mfe.cliptv.az/dash/KHL_TV_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2465.png" group-title="Телеканали",ЛДПР ТВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5160
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5810.png" group-title="Телеканали",Липецкое время
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5177
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OQdfUXT.png" group-title="Телеканали",Луч (Пуровск)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/197.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноnashe lubimoe-kino_d0httpmfecliptvazdashlyubimoekinosdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Любимое кино
+http://mfe.cliptv.az/dash/Lyubimoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",Ля-Минор
+http://185.235.187.10:8888/play/lya_minor/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Ля-минор ТВ
+http://myott.top/stream/DT6QU63K5VX/303.m3u8
+#EXTINF:-1 group-title="Телеканали",М1
+http://185.235.187.10:8888/play/m1/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",М1 HD
+http://myott.top/stream/DT6QU63K5VX/218.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/42a5f27d43028bbfa0e52e1abf7b537b_high.png" group-title="Телеканали",М1 HD
+https://cdnua03.hls.tv/178/hls/0vesuplgd5ka1h4x73wbmnfritqcz2jy/4598/stream.m3u8
+#EXTINF:-1 group-title="Телеканали",М2
+http://185.235.187.10:8888/play/m2/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",М2 HD
+http://myott.top/stream/DT6QU63K5VX/330.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/61213b906b32189d08bc034419ec313c_high.png" group-title="Телеканали",М2 HD
+https://cdnua03.hls.tv/178/hls/km98s2z0bc6xhpj45envf1wa3ydultri/4601/stream.m3u8
+#EXTINF:-1 tvg-id="m2-ua" tvg-logo="http://iptvxpix.ml/m2-ua.png" group-title="Телеканали",М2 HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1247.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Детскиеmalysh_d0httpmfecliptvazdashtlumhdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Малыш
+http://mfe.cliptv.az/dash/Tlum_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",Малыш
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/3058.m3u8
+#EXTINF:-1 group-title="Телеканали",Малятко ТВ
+http://185.235.187.10:8888/play/malyatko_tv/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Мама
+http://myott.top/stream/DT6QU63K5VX/79.m3u8
+#EXTINF:-1 group-title="Телеканали",Мама
+http://185.235.187.10:8888/play/mama/index.m3u8
+#EXTINF:-1 group-title="Телеканали",МАМА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5139
+#EXTINF:-1 group-title="Телеканали",Мама
+http://91.219.23.234:8000/play/361/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/618.png" group-title="Телеканали",Мама
+http://bsttv.bonus-tv.ru/cdn/mama/playlist.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Детскиеmama_00httpmfecliptvazdashmamasd542ismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Мама
+http://mfe.cliptv.az/dash/Mama_SD_542.ism/playlist.mpd
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Масон HD
+http://myott.top/stream/DT6QU63K5VX/346.m3u8
+#EXTINF:-1 tvg-id="matur-tv" tvg-logo="http://iptvxpix.ml/matur-tv.png" group-title="Телеканали",Матур ТВ
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/200.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч +2
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2265.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч +4
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2266.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч +8
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2267.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2250.png" group-title="Телеканали",МАТЧ ПРЕМЬЕР
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5462
+#EXTINF:-1 group-title="Телеканали",МАТЧ ПРЕМЬЕР
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2284.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2250.png" group-title="Телеканали",МАТЧ ПРЕМЬЕР HD
+http://83.222.205.65:8080/mpremier_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Телеканали",МАТЧ ПРЕМЬЕР HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2898.m3u8
+#EXTINF:-1 group-title="Телеканали",МАТЧ Премьер HD 50
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2902.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2051.png" group-title="Телеканали",Матч ТВ
+http://iptv.ktkru.ru:8003/index.m3u8
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://iptvxpix.ml/match-tv.png" group-title="Телеканали",Матч ТВ
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2285.m3u8
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://iptvxpix.ml/match-tv.png" group-title="Телеканали",Матч!
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/987.m3u8
+#EXTINF:-1 group-title="Телеканали",МАТЧ! +0 (Белгород)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2502.m3u8
+#EXTINF:-1 group-title="Телеканали",МАТЧ! +0 (Липецк)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2499.m3u8
+#EXTINF:-1 group-title="Телеканали",МАТЧ! +0 (Элиста)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2503.m3u8
+#EXTINF:-1 group-title="Телеканали",МАТЧ! +2 (Уфа)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2498.m3u8
+#EXTINF:-1 group-title="Телеканали",МАТЧ! +3 (Омск)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2263.m3u8
+#EXTINF:-1 group-title="Телеканали",МАТЧ! +4 (Алтай
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2262.m3u8
+#EXTINF:-1 group-title="Телеканали",МАТЧ! +4 (Томск)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2501.m3u8
+#EXTINF:-1 group-title="Телеканали",МАТЧ! +7 (Владивосток)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2500.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2017.png" group-title="Телеканали",Матч! HD
+https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч! HD
+http://185.235.187.10:8888/play/match_HD/index.m3u8
+#EXTINF:-1 group-title="Телеканали",МАТЧ! HD 50
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2900.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2003.png" group-title="Телеканали",Матч! Арена
+http://83.222.205.65:8080/marena_edge/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч! Арена
+http://91.219.23.234:8000/play/301/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Спортmatch! arena_d0httpmfecliptvazdashmatcharenahdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Матч! Арена
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="http://iptvxpix.ml/match-arena.png" group-title="Телеканали",Матч! Арена
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2281.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч! Арена HD
+http://185.235.187.10:8888/play/match_arena_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2054.png" group-title="Телеканали",Матч! Боец
+http://83.222.205.65:8080/mboec_edge/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч! Боец
+http://185.235.187.10:8888/play/boec/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч! Боец
+http://91.219.23.234:8000/play/86/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Спортmatch! boecz_d0httpmfecliptvazdashmatcboecsdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Матч! Боец
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="match-boets" tvg-logo="http://iptvxpix.ml/match-boec.png" group-title="Телеканали",Матч! Боец
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2288.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Матч! Боец HD
+http://myott.top/stream/DT6QU63K5VX/112.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2050.png" group-title="Телеканали",Матч! Игра
+http://82.194.1.2:8016/play/E36_11785R_SID1303/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч! Игра
+http://91.219.23.234:8000/play/341/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Спортmatch! igra_d0httpmfecliptvazdashmatchigrahdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Матч! Игра
+http://mfe.cliptv.az/dash/Match_Igra_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="match-igra" tvg-logo="http://iptvxpix.ml/match-igra.png" group-title="Телеканали",Матч! Игра
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2282.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч! Игра HD
+http://185.235.187.10:8888/play/match_igra_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2043.png" group-title="Телеканали",Матч! Планета
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5455
+#EXTINF:-1 tvg-id="match-planeta" tvg-logo="http://iptvxpix.ml/match-planeta.png" group-title="Телеканали",Матч! Планета
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2277.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Спортmatch! prem`er_d0httpmfecliptvazdashmatchpremyerhdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Матч! Премьер
+http://mfe.cliptv.az/dash/Match_Premyer_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvxpix.ml/match-premiere.png" group-title="Телеканали",Матч! Премьер
+http://109.200.130.124:7005/play/a00d
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="http://epg.it999.ru/img/2250.png" group-title="Телеканали",Матч! Премьер HD
+https://mfe02.cliptv.az/dash/Match_Premyer_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2042.png" group-title="Телеканали",МАТЧ! СТРАНА
+http://83.222.205.65:8080/mstrana_edge/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч! Страна
+http://91.219.23.234:8000/play/340/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Спортmatch! strana_d0httpmfecliptvazdashmatchnashsportsdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Матч! Страна
+http://mfe.cliptv.az/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",МАТЧ! СТРАНА
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2264.m3u8
+#EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="http://iptvxpix.ml/match-strana.png" group-title="Телеканали",Матч! Страна HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/993.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч! ТВ
+http://185.235.187.10:8888/play/a001/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч! ТВ
+http://91.219.23.234:8000/play/3/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Общероссийскиеmatch-tv_d0httpmfecliptvazdashmatchhdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Матч! ТВ
+http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2044.png" group-title="Телеканали",Матч! Футбол 1
+http://83.222.205.65:8080/football1_edge/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч! Футбол 1
+http://185.235.187.10:8888/play/match_futbol1/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч! Футбол 1
+http://91.219.23.234:8000/play/582/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Спортmatch! futbol 1_d0httpmfecliptvazdashmatchfootball1hdkjtismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Матч! Футбол 1
+http://mfe.cliptv.az/dash/Match_Football_1_HD_kjt.ism/playlist.mpd
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="http://iptvxpix.ml/match-football1.png" group-title="Телеканали",Матч! Футбол 1
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2278.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч! Футбол 1 FHD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2906.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2044.png" group-title="Телеканали",Матч! Футбол 1 HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5456
+#EXTINF:-1 group-title="Телеканали",Матч! Футбол 1 HD
+http://185.235.187.10:8888/play/match_futbol_1HD/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч! Футбол 1 HD
+http://91.219.23.234:8000/play/279/index.m3u8
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="https://epg.it999.ru/img/1043.png" group-title="Телеканали",Матч! Футбол 1 HD
+http://109.200.130.124:7005/play/a00h
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1042.png" group-title="Телеканали",Матч! Футбол 2
+http://82.194.1.2:8016/play/E36_11785R_SID1306/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч! Футбол 2
+http://185.235.187.10:8888/play/match_futbol2/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч! Футбол 2
+http://91.219.23.234:8000/play/583/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Спортmatch! futbol 2_d0httpmfecliptvazdashmatchfootball2hdk2jtismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Матч! Футбол 2
+http://mfe.cliptv.az/dash/Match_Football_2_HD_k2jt.ism/playlist.mpd
+#EXTINF:-1 tvg-id="match-football2" tvg-logo="http://iptvxpix.ml/match-football2.png" group-title="Телеканали",Матч! Футбол 2
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2283.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2005.png" group-title="Телеканали",Матч! Футбол 2 HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5461
+#EXTINF:-1 group-title="Телеканали",Матч! Футбол 2 HD
+http://185.235.187.10:8888/play/match_futbol2_HD/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч! Футбол 2 HD
+http://91.219.23.234:8000/play/280/index.m3u8
+#EXTINF:-1 tvg-id="match-football2" tvg-logo="http://epg.it999.ru/img/1042.png" group-title="Телеканали",Матч! Футбол 2 HD
+http://109.200.130.124:7005/play/a00b
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2005.png" group-title="Телеканали",Матч! Футбол 3
+http://82.194.1.2:8016/play/E36_11785R_SID1307/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч! Футбол 3
+http://91.219.23.234:8000/play/584/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Спортmatch! futbol 3_d0httpmfecliptvazdashmatchfootball3hdk3jtismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Матч! Футбол 3
+http://mfe.cliptv.az/dash/Match_Football_3_HD_k3jt.ism/playlist.mpd
+#EXTINF:-1 tvg-id="match-football3" tvg-logo="http://iptvxpix.ml/match-football3.png" group-title="Телеканали",Матч! Футбол 3
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2280.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1042.png" group-title="Телеканали",Матч! Футбол 3 HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5458
+#EXTINF:-1 group-title="Телеканали",Матч! Футбол 3 HD
+http://185.235.187.10:8888/play/match_futbol3_HD/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Матч! Футбол 3 HD
+http://91.219.23.234:8000/play/281/index.m3u8
+#EXTINF:-1 tvg-id="match-football3" tvg-logo="http://epg.it999.ru/img/2005.png" group-title="Телеканали",Матч! Футбол 3 HD
+http://109.200.130.124:7005/play/a00c
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/374d9b4facc79ec77bb4f52976ea2ede_high.png" group-title="Телеканали",Мега
+https://cdnua03.hls.tv/178/hls/drokac3ie6tyzpu97bsg40vnm852wljf/123/stream.m3u8
+#EXTINF:-1 group-title="Телеканали",Мега
+http://185.235.187.10:8888/play/mega/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Мега HD
+http://myott.top/stream/DT6QU63K5VX/325.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NiMwX2y.jpeg" group-title="Телеканали",Между.Net (Междуреченск)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/201.m3u8
+#EXTINF:-1 group-title="Телеканали",минимакс-воронины HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/3022.m3u8
+#EXTINF:-1 tvg-id="ministerstvo-idey" tvg-logo="http://iptvxpix.ml/ministerstvo-idey.png" group-title="Телеканали",Министерство идей
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/203.m3u8
+#EXTINF:-1 group-title="Телеканали",МИР
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5122
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Общероссийскиеmir_d0httpmfecliptvazdashmirhd542ismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Мир
+http://mfe.cliptv.az/dash/Mir_HD_542.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",МИР 24
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5174
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Новостиmir 24_d0httpmfecliptvazdashmir24sdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Мир 24
+http://mfe.cliptv.az/dash/MIR24_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="mir-belogoria" tvg-logo="http://iptvxpix.ml/mir-belogoria.png" group-title="Телеканали",Мир Белогорья
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/209.m3u8
+#EXTINF:-1 group-title="Телеканали",Мир Вокруг HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2750.m3u8
+#EXTINF:-1 group-title="Телеканали",МИР СЕРИАЛА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5102
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноmir seriala_d0http185161224216dashmirserialasdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Мир сериала
+http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Молдова 1
+http://myott.top/stream/DT6QU63K5VX/336.m3u8
+#EXTINF:-1 tvg-id="mordovia-24" tvg-logo="http://iptvxpix.ml/mordovia-24.png" group-title="Телеканали",Мордовия 24
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/211.m3u8
+#EXTINF:-1 group-title="Телеканали",МОРСКОЙ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5545
+#EXTINF:-1 group-title="Телеканали",МОСКВА 24
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5141
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Мосфильм. Золотая коллекция
+http://myott.top/stream/DT6QU63K5VX/369.m3u8
+#EXTINF:-1 group-title="Телеканали",Моторспорт ТВ
+http://185.235.187.10:8888/play/a03l/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2529.png" group-title="Телеканали",Моторспорт ТВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5470
+#EXTINF:-1 tvg-id="motorsportv-tv" tvg-logo="http://iptvxpix.ml/motorsportv-tv.png" group-title="Телеканали",Моторспорт ТВ
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2292.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Моторспорт ТВ HD
+http://myott.top/stream/DT6QU63K5VX/300.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Моя планета
+http://myott.top/stream/DT6QU63K5VX/124.m3u8
+#EXTINF:-1 group-title="Телеканали",МОЯ ПЛАНЕТА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5523
+#EXTINF:-1 group-title="Телеканали",Моя планета
+http://91.219.23.234:8000/play/393/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Моя стихия
+http://myott.top/stream/DT6QU63K5VX/141.m3u8
+#EXTINF:-1 group-title="Телеканали",Моя стихия
+http://185.235.187.10:8888/play/moya_planeta/index.m3u8
+#EXTINF:-1 group-title="Телеканали",МОЯ СТИХИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5548
+#EXTINF:-1 group-title="Телеканали",Моя стихия
+http://91.219.23.234:8000/play/524/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Моя Стихия
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2752.m3u8
+#EXTINF:-1 group-title="Телеканали",Моя Стихия HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2753.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ll4uTv5.png" group-title="Телеканали",МТВ (Волгоград)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/214.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Мужское кино
+http://myott.top/stream/DT6QU63K5VX/107.m3u8
+#EXTINF:-1 group-title="Телеканали",Мужское Кино
+http://185.235.187.10:8888/play/muzhskoe_kino/index.m3u8
+#EXTINF:-1 group-title="Телеканали",МУЖСКОЕ КИНО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5082
+#EXTINF:-1 group-title="Телеканали",Мужское кино
+http://91.219.23.234:8000/play/567/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноmuzhskoe kino_d0httpmfecliptvazdashmujskoyekinosdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Мужское кино
+http://mfe.cliptv.az/dash/Mujskoye_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",Мужское кино HD
+http://91.219.23.234:8000/play/568/index.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/55846/2a0000016585fe3d303aaed2be3e04b85166/170x100" group-title="Телеканали",Муз союз
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/216.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Общероссийскиеmuz tv_d0httpmfecliptvazdashmuzsdismplaylistmpd00" catchup-days="3" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Муз ТВ
+http://mfe.cliptv.az/dash/Muz_SD.ism/playlist.mpd
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Музыкаmuz tv_00httpmfecliptvazdashmtvhitssdismplaylistmpd00" catchup-days="3" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Муз ТВ
+http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Муз-ТВ
+http://myott.top/stream/DT6QU63K5VX/86.m3u8
+#EXTINF:-1 group-title="Телеканали",МузТВ
+http://185.235.187.10:8888/play/muz_tv/index.m3u8
+#EXTINF:-1 group-title="Телеканали",МузТВ
+http://91.219.23.234:8000/play/20/index.m3u8
+#EXTINF:-1 group-title="Телеканали",МУЗЫКА АРМЕНИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5375
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Музыка Первого
+http://myott.top/stream/DT6QU63K5VX/153.m3u8
+#EXTINF:-1 group-title="Телеканали",МУЛЬТ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5559
+#EXTINF:-1 group-title="Телеканали",Мульт
+http://91.219.23.234:8000/play/349/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Мульт
+http://bsttv.bonus-tv.ru/cdn/mult/playlist.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Детскиеmul`t_d0httpmfecliptvazdashmultsdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Мульт
+http://mfe.cliptv.az/dash/Mult_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",Мульт
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/3044.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Мульт HD
+http://myott.top/stream/DT6QU63K5VX/232.m3u8
+#EXTINF:-1 group-title="Телеканали",Мульт HD
+http://91.219.23.234:8000/play/106/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Мульт HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/3046.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Мульт и музыка
+http://myott.top/stream/DT6QU63K5VX/82.m3u8
+#EXTINF:-1 group-title="Телеканали",Мультиландия
+http://91.219.23.234:8000/play/351/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Мультимузыка
+http://91.219.23.234:8000/play/383/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Детскиеmul`timaniya_d0httpmfecliptvazdashmultimaniyasdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Мультимузыка
+http://mfe.cliptv.az/dash/Multimaniya_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",Мультимузыка
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/3054.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/fcc9f688c09a24292b277c20afe3cba9_high.png" group-title="Телеканали",Навігатор ТБ
+https://cdnua03.hls.tv/178/hls/i0hxeqpj8lbwgsc5v1ry6dkznuf2t497/4236/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/b50d5bdaa4b77da1ba01e1401c46b8ba_high.png" group-title="Телеканали",Надія
+https://cdnua03.hls.tv/178/hls/8lucio3s1jmd2x0fhkzgep64vyqrb7nw/125/stream.m3u8
+#EXTINF:-1 tvg-id="nano-tv" tvg-logo="http://iptvxpix.ml/nano-tv.png" group-title="Телеканали",Нано
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/223.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Познавательныеnano-tv_00httpmfecliptvazdashnanotvsdismplaylistmpd00" catchup-days="7" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Нано ТВ
+http://mfe.cliptv.az/dash/Nano_TV_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="nano-tv" tvg-logo="http://iptvxpix.ml/nano-tv.png" group-title="Телеканали",Нано ТВ
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2756.m3u8
+#EXTINF:-1 tvg-id="nano-tv" tvg-logo="http://iptvxpix.ml/nano-tv.png" group-title="Телеканали",Нано ТВ HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2757.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Настоящее время HD
+http://myott.top/stream/DT6QU63K5VX/384.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/4e56979bc02263d90b7709e4fb63d3fd_high.png" group-title="Телеканали",Настоящее время HD
+https://cdnua03.hls.tv/178/hls/mfcd3i8nj59ah4gpzy7svteuqwklox1b/3932/stream.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноnastoyashhee strashnoe tv_d0httpmfecliptvazdashnstvsdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Настоящее страшное ТВ
+http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Наука
+http://myott.top/stream/DT6QU63K5VX/403.m3u8
+#EXTINF:-1 group-title="Телеканали",Наука
+http://91.219.23.234:8000/play/395/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Наука 2.0
+http://myott.top/stream/DT6QU63K5VX/125.m3u8
+#EXTINF:-1 group-title="Телеканали",Наука 2.0
+http://185.235.187.10:8888/play/nauka/index.m3u8
+#EXTINF:-1 group-title="Телеканали",НАУКА HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5578
+#EXTINF:-1 tvg-id="nauka" tvg-logo="http://iptvxpix.ml/nauka.png" group-title="Телеканали",Наука HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2758.m3u8
+#EXTINF:-1 group-title="Телеканали",Наш Кинопоказ
+http://91.219.23.234:8000/play/81/index.m3u8
+#EXTINF:-1 tvg-id="nasha-sibir-4k" tvg-logo="http://iptvxpix.ml/nasha-sibir-4k.png" group-title="Телеканали",Наша Сибирь 4K
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2759.m3u8
+#EXTINF:-1 group-title="Телеканали",Наша сибирь 4K [HEVEC]
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2760.m3u8
+#EXTINF:-1 group-title="Телеканали",НАША ТЕМА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5576
+#EXTINF:-1 group-title="Телеканали",Наша тема
+http://91.219.23.234:8000/play/70/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Наша Тема
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2762.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Наше HD
+http://myott.top/stream/DT6QU63K5VX/217.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/50fbbffd7b47a4e139dc8f81349f4ed1_high.png" group-title="Телеканали",НАШЕ HD
+https://cdnua03.hls.tv/178/hls/9wlzju6fx24pqeyhgktn30ic7mv8d5rb/3699/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/8744af4ab4e64f1790a43f10d0a9e2a5_high.png" group-title="Телеканали",НАШЕ Music HD
+https://cdnua03.hls.tv/178/hls/3okx6zresgumb2vdy5i19an0wlh874tc/550/stream.m3u8
+#EXTINF:-1 group-title="Телеканали",Наше кино
+http://185.235.187.10:8888/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Телеканали",НАШЕ ЛЮБИМОЕ КИНО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5090
+#EXTINF:-1 group-title="Телеканали",Наше мужское
+http://91.219.23.234:8000/play/83/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Наше мужское HD
+http://myott.top/stream/DT6QU63K5VX/362.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Наше новое кино
+http://myott.top/stream/DT6QU63K5VX/128.m3u8
+#EXTINF:-1 group-title="Телеканали",НАШЕ НОВОЕ КИНО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5068
+#EXTINF:-1 group-title="Телеканали",Наше новое кино
+http://91.219.23.234:8000/play/557/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноnashe novoe kino_d0httpmfecliptvazdashnashenovoekinosdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Наше новое кино
+http://mfe.cliptv.az/dash/Nashe_Novoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="nn-24" tvg-logo="http://iptvxpix.ml/nn-24.png" group-title="Телеканали",Нижний Новгород 24
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/228.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/baae04a0d728d4282d398f5d411660e3_high.png" group-title="Телеканали",НЛО TV
+https://cdnua03.hls.tv/178/hls/h0oq2xazevcmpwjl4ys13ni5r9ukb8gd/126/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/98c0f6dea4d2fbed3e66afce855bd406_high.png" group-title="Телеканали",Новий канал HD
+https://cdnua03.hls.tv/178/hls/k3jxu95vrb4pihteo70sfy1zl2agm8cn/4607/stream.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Новый канал HD
+http://myott.top/stream/DT6QU63K5VX/157.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6028.png" group-title="Телеканали",Новый Мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 group-title="Телеканали",НОСТАЛЬГИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5059
+#EXTINF:-1 group-title="Телеканали",Ностальгия
+http://91.219.23.234:8000/play/594/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноnostal`giya_d0httpmfecliptvazdashnostalgiyasdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Ностальгия
+http://mfe.cliptv.az/dash/Nostalgiya_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",НСТ
+http://myott.top/stream/DT6QU63K5VX/207.m3u8
+#EXTINF:-1 group-title="Телеканали",НСТ
+http://185.235.187.10:8888/play/a015/index.m3u8
+#EXTINF:-1 group-title="Телеканали",НСТ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5097
+#EXTINF:-1 group-title="Телеканали",НСТ
+http://91.219.23.234:8000/play/315/index.m3u8
+#EXTINF:-1 group-title="Телеканали",НТВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5123
+#EXTINF:-1 group-title="Телеканали",НТВ
+http://91.219.23.234:8000/play/4/index.m3u8
+#EXTINF:-1 group-title="Телеканали",НТВ HD
+http://91.219.23.234:8000/play/107/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Общероссийскиеntv_d0httpmfecliptvazdashhtbhdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",НТВ HD
+http://mfe.cliptv.az/dash/HTB_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",НТВ ПРАВО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5147
+#EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="http://iptvxpix.ml/ntv-pravo.png" group-title="Телеканали",НТВ Право
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2763.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",НТВ Сериал
+http://myott.top/stream/DT6QU63K5VX/301.m3u8
+#EXTINF:-1 group-title="Телеканали",НТВ СЕРИАЛ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5096
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="http://iptvxpix.ml/ntv-style.png" group-title="Телеканали",НТВ Стиль
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2764.m3u8
+#EXTINF:-1 group-title="Телеканали",НТВ ХИТ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5095
+#EXTINF:-1 group-title="Телеканали",НТК
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5154
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",НТК (Казахстан)
+http://myott.top/stream/DT6QU63K5VX/389.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/43217c11404de97a48367287c9d33b35_high.png" group-title="Телеканали",НТН
+https://cdnua03.hls.tv/178/hls/uv7jql38sicdrn14gmaxktbw50zf9py2/129/stream.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",НТН HD
+http://myott.top/stream/DT6QU63K5VX/326.m3u8
+#EXTINF:-1 tvg-logo="https://nts-tv.com/bitrix/templates/v1.0/img/logo_2.png" group-title="Телеканали",НТС (Севастополь)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/238.m3u8
+#EXTINF:-1 group-title="Телеканали",О!
+http://185.235.187.10:8888/play/a02a/index.m3u8
+#EXTINF:-1 group-title="Телеканали",О!
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/3050.m3u8
+#EXTINF:-1 group-title="Телеканали",ОРУЖИЕ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5573
+#EXTINF:-1 group-title="Телеканали",Оружие
+http://91.219.23.234:8000/play/392/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Остросюжетное HD
+http://myott.top/stream/DT6QU63K5VX/214.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JKZ8QHJ.png" group-title="Телеканали",ОТВ (Одинцово)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/247.m3u8
+#EXTINF:-1 group-title="Телеканали",ОТКРЫТЫЙ МИР
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5157
+#EXTINF:-1 group-title="Телеканали",ОТР
+http://185.235.187.10:8888/play/mir_serialov/index.m3u8
+#EXTINF:-1 group-title="Телеканали",ОТР
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5140
+#EXTINF:-1 group-title="Телеканали",ОТР
+http://91.219.23.234:8000/play/9/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Охота и рыбалка
+http://myott.top/stream/DT6QU63K5VX/155.m3u8
+#EXTINF:-1 group-title="Телеканали",Охота и рыбалка
+http://91.219.23.234:8000/play/37/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Познавательныеokhota i rybalka_d0httpmfecliptvazdashoxotairibalkasdismplaylistmpd00" catchup-days="7" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Охота и рыбалка
+http://mfe.cliptv.az/dash/Oxota_i_Ribalka_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Охотник и рыболов HD
+http://myott.top/stream/DT6QU63K5VX/194.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/62420f40a47322cb57a0d0440b18cc39_high.png" group-title="Телеканали",Оце
+https://cdnua03.hls.tv/178/hls/facmvbriln7h4d83p2gws5yxq9jz160u/3593/stream.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",ОЦЕ HD
+http://myott.top/stream/DT6QU63K5VX/329.m3u8
+#EXTINF:-1 group-title="Телеканали",Первый HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5129
+#EXTINF:-1 group-title="Телеканали",Первый вегетарианский
+http://91.219.23.234:8000/play/275/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Первый Вегетарианский
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2768.m3u8
+#EXTINF:-1 group-title="Телеканали",Первый канал
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5202
+#EXTINF:-1 group-title="Телеканали",Первый канал HD
+http://91.219.23.234:8000/play/101/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Общероссийскиеpervyj kanal_d0httpmfecliptvazdashperviykanalhdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Первый канал HD
+http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Первый Космический HD
+http://myott.top/stream/DT6QU63K5VX/212.m3u8
+#EXTINF:-1 group-title="Телеканали",Первый космический HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2769.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2472.png" group-title="Телеканали",Первый Крымский
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5167
+#EXTINF:-1 tvg-logo="https://assets.limehd.tv/uploads/channel/10479/thumb_5194bd2a640b74872fdd9eaeded82a97.png" group-title="Телеканали",Первый Псковский
+http://live-1.otcnet.ru/pskov/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Телеканали",Перец International
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2916.m3u8
+#EXTINF:-1 group-title="Телеканали",Пес и Ко
+http://91.219.23.234:8000/play/40/index.m3u8
+#EXTINF:-1 tvg-id="pes-i-ko" tvg-logo="http://iptvxpix.ml/pes-i-ko.png" group-title="Телеканали",Пёс и Ко
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2770.m3u8
+#EXTINF:-1 group-title="Телеканали",Пиксель
+http://185.235.187.10:8888/play/pixel/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Пиксель HD
+http://myott.top/stream/DT6QU63K5VX/323.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2107.png" group-title="Телеканали",Пиксель HD UA
+http://saveukraine.only4.tv/1166/video.m3u8?token=saveUkrain
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/3e13dbfd5baed3c147895e54a0350c1a_high.png" group-title="Телеканали",Піксель
+https://cdnua03.hls.tv/178/hls/0rbuqnve7fgdtjyl2x8a1pw4hmzis3c5/135/stream.m3u8
+#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://iptvxpix.ml/moya-planeta.png" group-title="Телеканали",Планета HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2771.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/e7c819401be5a47ab2922886e24cf7c4_high.png" group-title="Телеканали",Плюс Плюс
+https://cdnua03.hls.tv/178/hls/f0umdgq26lz4r7xi1wvpkysn9c58oa3e/136/stream.m3u8
+#EXTINF:-1 group-title="Телеканали",Плюс Плюс
+http://185.235.187.10:8888/play/a00t/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",ПлюсПлюс HD
+http://myott.top/stream/DT6QU63K5VX/339.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2202.png" group-title="Телеканали",ПлюсПлюс HD
+http://saveukraine.only4.tv/6232/video.m3u8?token=saveUkrain
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Поехали
+http://myott.top/stream/DT6QU63K5VX/316.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2350.png" group-title="Телеканали",Поехали!
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5561
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/667f71c4d50fc0132c550501e978bdb8_high.png" group-title="Телеканали",Правда ТУТ HD
+https://cdnua03.hls.tv/178/hls/x3esyg5palov96q8r0z7nk421utdwbfc/3985/stream.m3u8
+#EXTINF:-1 group-title="Телеканали",ПравдаТУТ
+http://185.235.187.10:8888/play/a007/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Прибой ТВ HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1221.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Приключения HD
+http://myott.top/stream/DT6QU63K5VX/198.m3u8
+#EXTINF:-1 tvg-id="prikluchenia-hd" tvg-logo="http://iptvxpix.ml/prikluchenia-hd.png" group-title="Телеканали",Приключения HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2773.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/b552e62b29d8ad2f945d9d4b2d76dcd5_high.png" group-title="Телеканали",Прямий HD
+https://cdnua03.hls.tv/178/hls/1rot89ewj5bpia3qdk4smxy67hlu2gvn/3615/stream.m3u8
+#EXTINF:-1 group-title="Телеканали",Психология 21
+http://91.219.23.234:8000/play/36/index.m3u8
+#EXTINF:-1 group-title="Телеканали",ПЯТНИЦА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5125
+#EXTINF:-1 group-title="Телеканали",Пятница
+http://91.219.23.234:8000/play/16/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Общероссийскиеpyatnica!_d0httpmfecliptvazdashpyatnicasdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Пятница!
+http://mfe.cliptv.az/dash/Pyatnica_SD.ism/playlist.mpd
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Общеророссийские5kanal-ru_d0httpmfecliptvazdash5kanalsdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Пятый канал
+http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/29af226ea5a7c5baba806a6ab57bde1a_high.png" group-title="Телеканали",Рада
+https://cdnua03.hls.tv/178/hls/5arbwxdeyq238p0oug79c6lfhtn1jvis/139/stream.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Рада HD
+http://myott.top/stream/DT6QU63K5VX/382.m3u8
+#EXTINF:-1 group-title="Телеканали",РАТНИК
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5165
+#EXTINF:-1 tvg-id="ratnik" tvg-logo="http://iptvxpix.ml/ratnik.png" group-title="Телеканали",Ратник
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/277.m3u8
+#EXTINF:-1 group-title="Телеканали",РБК
+http://91.219.23.234:8000/play/58/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Новостиrbk_d0httpmfecliptvazdashrbksdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",РБК
+http://mfe.cliptv.az/dash/RBK_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",РЕН ТВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5130
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Общероссийскиеren tv_d0httpmfecliptvazdashrensdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",РЕН ТВ
+http://mfe.cliptv.az/dash/Ren_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",РЕТРО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5103
+#EXTINF:-1 group-title="Телеканали",Ретро
+http://91.219.23.234:8000/play/33/index.m3u8
+#EXTINF:-1 group-title="Телеканали",РЖД
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5166
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/35fe5923caf3bdc02600ea000826b118_high.png" group-title="Телеканали",Рибалка ТВ
+https://cdnua03.hls.tv/178/hls/9o3p0n8m6h5rxdyiaw1bvj2kueqtgl47/4768/stream.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Родное кино
+http://myott.top/stream/DT6QU63K5VX/242.m3u8
+#EXTINF:-1 group-title="Телеканали",Родное кино
+http://185.235.187.10:8888/play/a019/index.m3u8
+#EXTINF:-1 group-title="Телеканали",РОДНОЕ КИНО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5064
+#EXTINF:-1 group-title="Телеканали",Родное кино
+http://91.219.23.234:8000/play/319/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноrodnoe kino_d0httpmfecliptvazdashrodnoekinosdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Родное кино
+http://mfe.cliptv.az/dash/Rodnoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",Россия 1
+http://91.219.23.234:8000/play/2/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Общероссийскиеrossiya 1_d0httpmfecliptvazdashrossiya1hdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Россия 1 HD
+http://mfe.cliptv.az/dash/Rossiya_1_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",Россия 24
+http://91.219.23.234:8000/play/7/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Общероссийскиеrossia-24_d0httpmfecliptvazdashrossiya24sdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Россия 24
+http://mfe.cliptv.az/dash/Rossiya_24_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",Россия HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5126
+#EXTINF:-1 group-title="Телеканали",Россия К
+http://91.219.23.234:8000/play/6/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Общероссийскиеkultura_d0httpmfecliptvazdashrossiyakulturrasdismplaylistmpd00" catchup-days="7" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Россия К
+http://mfe.cliptv.az/dash/Rossiya_Kulturra_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Русская комедия
+http://myott.top/stream/DT6QU63K5VX/68.m3u8
+#EXTINF:-1 group-title="Телеканали",Русская попса 80х-90х
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1130.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Русский бестселлер
+http://myott.top/stream/DT6QU63K5VX/208.m3u8
+#EXTINF:-1 group-title="Телеканали",Русский бестселлер
+http://185.235.187.10:8888/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Телеканали",РУССКИЙ БЕСТСЕЛЛЕР
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5087
+#EXTINF:-1 group-title="Телеканали",Русский бестселлер
+http://91.219.23.234:8000/play/569/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Русский детектив
+http://myott.top/stream/DT6QU63K5VX/204.m3u8
+#EXTINF:-1 group-title="Телеканали",РУССКИЙ ДЕТЕКТИВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5089
+#EXTINF:-1 group-title="Телеканали",Русский детектив
+http://91.219.23.234:8000/play/565/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноrusskij detektiv_d0httpmfecliptvazdashruskiydetektivsdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Русский детектив
+http://mfe.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Русский иллюзион
+http://myott.top/stream/DT6QU63K5VX/122.m3u8
+#EXTINF:-1 group-title="Телеканали",РУССКИЙ ИЛЛЮЗИОН
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5073
+#EXTINF:-1 group-title="Телеканали",Русский иллюзион
+http://91.219.23.234:8000/play/34/index.m3u8
+#EXTINF:-1 group-title="Телеканали",РУССКИЙ РОМАН
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5088
+#EXTINF:-1 group-title="Телеканали",Русский роман
+http://91.219.23.234:8000/play/282/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноrusskij roman_d0httpmfecliptvazdashruskiyromansdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Русский роман
+http://mfe.cliptv.az/dash/Ruskiy_Roman_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Русский роман HD
+http://myott.top/stream/DT6QU63K5VX/266.m3u8
+#EXTINF:-1 tvg-id="russky-sever" tvg-logo="http://iptvxpix.ml/russky-sever.png" group-title="Телеканали",Русский Север
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/295.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Русский экстрим HD
+http://myott.top/stream/DT6QU63K5VX/285.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Рыбалка HD
+http://myott.top/stream/DT6QU63K5VX/286.m3u8
+#EXTINF:-1 group-title="Телеканали",Рыболов
+http://91.219.23.234:8000/play/84/index.m3u8
+#EXTINF:-1 tvg-logo="https://sitv.ru/img/stv-news/111111/S1_logo.jpg" group-title="Телеканали",С1 (Сургут)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/299.m3u8
+#EXTINF:-1 tvg-id="saratov-24" tvg-logo="http://iptvxpix.ml/saratov-24.png" group-title="Телеканали",Саратов 24
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/302.m3u8
+#EXTINF:-1 group-title="Телеканали",САРАФАН
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5149
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/1d0f613d863a26859509236390128192_high.png" group-title="Телеканали",Сварожичи
+https://cdnua03.hls.tv/178/hls/x8vmjwr1s07h9b4dt6i3ogn25fpecyqa/4406/stream.m3u8
+#EXTINF:-1 group-title="Телеканали",Свежаки HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2928.m3u8
+#EXTINF:-1 tvg-logo="https://limehd.tv/images/seo/svoetv_1.jpg" group-title="Телеканали",Своё ТВ
+http://bsttv.bonus-tv.ru/cdn/svoetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JjjIiGH.png" group-title="Телеканали",Север (Нарьян-Мар)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/305.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4630.png" group-title="Телеканали",Сетанта Спорт + HD UA
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4314/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4630.png" group-title="Телеканали",Сетанта Спорт + UA
+https://bal.varcdn.top/setantaplusukraina/index.m3u8
+#EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="http://iptvxpix.ml/smaylik-tv.png" group-title="Телеканали",Смайлик ТВ
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1540.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/275.png" group-title="Телеканали",Совершенно секретно
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5525
+#EXTINF:-1 tvg-id="sovsek" tvg-logo="http://iptvxpix.ml/sovsek.png" group-title="Телеканали",Совершенно секретно
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2777.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Соль ТВ HD
+http://myott.top/stream/DT6QU63K5VX/398.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/dfeb91281c7bcadc67d2c889d89255af_high.png" group-title="Телеканали",Сонце
+https://cdnua03.hls.tv/178/hls/efrjzqpy2g47sum8ch6lo1wbitkxv5n3/141/stream.m3u8
+#EXTINF:-1 group-title="Телеканали",Сонце
+http://185.235.187.10:8888/play/a05p/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Союз
+http://91.219.23.234:8000/play/67/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Спас
+http://91.219.23.234:8000/play/12/index.m3u8
+#EXTINF:-1 tvg-logo="http://play.wisp.cat/logos/56.png" group-title="Телеканали",Спорт 1
+https://bal.varcdn.top/sport1/index.m3u8
+#EXTINF:-1 tvg-id="sportivny" tvg-logo="http://iptvxpix.ml/sportivny.png" group-title="Телеканали",Спортивный HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2436.m3u8
+#EXTINF:-1 group-title="Телеканали",СТАРТ
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2293.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2530.png" group-title="Телеканали",СТАРТ HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5471
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",СТБ HD
+http://myott.top/stream/DT6QU63K5VX/156.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/30ed8449dadc3cce429781c71eb58f96_high.png" group-title="Телеканали",СТБ HD
+https://cdnua03.hls.tv/178/hls/flezniq5r1vtswy7augpo4ch62jkb8d9/4592/stream.m3u8
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-logo="http://iptvxpix.ml/radio-strana-fm-tv.png" group-title="Телеканали",Страна FM
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/315.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Страшное HD
+http://myott.top/stream/DT6QU63K5VX/385.m3u8
+#EXTINF:-1 group-title="Телеканали",СТС
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5127
+#EXTINF:-1 group-title="Телеканали",СТС
+http://91.219.23.234:8000/play/13/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Общероссийскиеsts_d0httpmfecliptvazdashstssdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",СТС
+http://mfe.cliptv.az/dash/STS_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",СТС
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2964.m3u8
+#EXTINF:-1 group-title="Телеканали",СТС HD orig
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2910.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",СТС Kids HD
+http://myott.top/stream/DT6QU63K5VX/387.m3u8
+#EXTINF:-1 group-title="Телеканали",СТС Love
+http://185.235.187.10:8888/play/a06g/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1322.png" group-title="Телеканали",СТС Love
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5060
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Общероссийскиеsts love_00httpmfecliptvazdashstslovesdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",СТС Love
+http://mfe.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",СТС Love
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2960.m3u8
+#EXTINF:-1 group-title="Телеканали",Суббота
+http://91.219.23.234:8000/play/39/index.m3u8
+#EXTINF:-1 tvg-id="super" tvg-logo="http://iptvxpix.ml/subbota.png" tvg-name="super" group-title="Телеканали",Суббота!
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1430.m3u8
+#EXTINF:-1 tvg-id="super" tvg-logo="http://iptvxpix.ml/subbota.png" tvg-name="super" group-title="Телеканали",Суббота! HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/451.m3u8
+#EXTINF:-1 group-title="Телеканали",СуперГерои
+http://91.219.23.234:8000/play/89/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Т 24
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2778.m3u8
+#EXTINF:-1 group-title="Телеканали",ТАЙНА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5569
+#EXTINF:-1 tvg-id="tamyr" tvg-logo="http://iptvxpix.ml/tamyr.png" group-title="Телеканали",Тамыр
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/323.m3u8
+#EXTINF:-1 group-title="Телеканали",Танцуй!
+http://185.235.187.10:8888/play/a04f/index.m3u8
+#EXTINF:-1 group-title="Телеканали",ТБН
+http://91.219.23.234:8000/play/385/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",ТВ XXI
+http://myott.top/stream/DT6QU63K5VX/152.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Общероссийскиеtvcentr_d0httpmfecliptvazdashtvcentersd159qismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",ТВ Центр
+http://mfe.cliptv.az/dash/TV_Center_SD_159q.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6036.png" group-title="Телеканали",ТВ Экстра HD
+http://194.190.78.91:8080/tvextra720b/index.m3u8
+#EXTINF:-1 group-title="Телеканали",ТВ3
+http://91.219.23.234:8000/play/15/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Общероссийскиеtv3-ru_d0httpmfecliptvazdashtv3sdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",ТВ3
+http://mfe.cliptv.az/dash/TV_3_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",ТВЦ
+http://185.235.187.10:8888/play/a022/index.m3u8
+#EXTINF:-1 group-title="Телеканали",ТВЦ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5134
+#EXTINF:-1 group-title="Телеканали",ТВЦ
+http://91.219.23.234:8000/play/10/index.m3u8
+#EXTINF:-1 tvg-id="tdk-ru" tvg-logo="http://iptvxpix.ml/tdk.png" group-title="Телеканали",ТДК
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2781.m3u8
+#EXTINF:-1 group-title="Телеканали",Телевсесвіт
+http://185.235.187.10:8888/play/a063/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Телевсесвіт HD
+http://185.235.187.10:8888/play/a00e/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/8ac83cd896dbcb6db448bc595da5ae73_high.png" group-title="Телеканали",Телеканал 36.6 HD
+https://cdnua03.hls.tv/178/hls/pezwf9g2k3a84onh1tbcjmd6y05vusqr/4721/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yI2ZHj8.png" group-title="Телеканали",Телеканал 86 (Сургут)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/334.m3u8
+#EXTINF:-1 group-title="Телеканали",Телеканал Да Винчи
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2783.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2782.png" group-title="Телеканали",Телеканал Футбол
+https://bal.varcdn.top/footbolru/index.m3u8
+#EXTINF:-1 tvg-id="football-ru" tvg-logo="http://iptvxpix.ml/football-ru.png" group-title="Телеканали",Телеканал Футбол
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2294.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Телекафе
+http://myott.top/stream/DT6QU63K5VX/314.m3u8
+#EXTINF:-1 group-title="Телеканали",Телекафе
+http://91.219.23.234:8000/play/370/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Киноtelekafe_d0httpmfecliptvazdashtelekafesdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Телекафе
+http://mfe.cliptv.az/dash/TeleKafe_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="telekafe" tvg-logo="http://iptvxpix.ml/telekafe.png" group-title="Телеканали",Телекафе
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2784.m3u8
+#EXTINF:-1 group-title="Телеканали",Телепутешествия
+http://91.219.23.234:8000/play/85/index.m3u8
+#EXTINF:-1 tvg-id="teleputeshestvia" tvg-logo="http://iptvxpix.ml/teleputeshestvia.png" group-title="Телеканали",Телепутешествия
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2785.m3u8
+#EXTINF:-1 group-title="Телеканали",Телплюс ТВ (Астрахань)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/337.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Терра
+http://myott.top/stream/DT6QU63K5VX/402.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/d573ba55d5c0957c14768ff3e21a5dc7_high.png" group-title="Телеканали",ТЕТ
+https://cdnua03.hls.tv/178/hls/2rfswl4zndo8mq5hjicpya9b301xku67/150/stream.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",ТЕТ HD
+http://myott.top/stream/DT6QU63K5VX/338.m3u8
+#EXTINF:-1 group-title="Телеканали",ТЕХНО 24
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5176
+#EXTINF:-1 tvg-logo="https://tvcom-tv.ru/assets/img/logo.png" group-title="Телеканали",Тивиком (Улан-Удэ)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/338.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/60c18e5dd031a789aa4f10b90594754e_high.png" group-title="Телеканали",Типовий Київ
+https://cdnua03.hls.tv/178/hls/8wfv1p7s5xicjgok0hqduerzmyb62ta9/4258/stream.m3u8
+#EXTINF:-1 group-title="Телеканали",ТКР (Рязань)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/341.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/933.png" group-title="Телеканали",ТНВ-Планета
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5133
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2477.png" group-title="Телеканали",ТНОМЕР
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5172
+#EXTINF:-1 group-title="Телеканали",ТНОМЕР
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2786.m3u8
+#EXTINF:-1 group-title="Телеканали",ТНТ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5124
+#EXTINF:-1 group-title="Телеканали",ТНТ
+http://91.219.23.234:8000/play/19/index.m3u8
+#EXTINF:-1 tvg-id="tnt-bravo-moldova" tvg-logo="http://iptvxpix.ml/tnt-excl.png" group-title="Телеканали",ТНТ Exclusiv TV
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/461.m3u8
+#EXTINF:-1 group-title="Телеканали",ТНТ FHD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2920.m3u8
+#EXTINF:-1 group-title="Телеканали",ТНТ HD
+http://91.219.23.234:8000/play/108/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Общероссийскиеtnt_d0httpmfecliptvazdashtnthdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",ТНТ HD
+http://mfe.cliptv.az/dash/TNT_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",ТНТ HD 50
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2904.m3u8
+#EXTINF:-1 group-title="Телеканали",ТНТ Music
+http://91.219.23.234:8000/play/334/index.m3u8
+#EXTINF:-1 group-title="Телеканали",ТОЛК
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5168
+#EXTINF:-1 tvg-id="2425" tvg-logo="http://epg.it999.ru/img/2425.png" group-title="Телеканали",Тонус ТВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5568
+#EXTINF:-1 tvg-id="tonus-tv" tvg-logo="http://iptvxpix.ml/tonus-tv.png" group-title="Телеканали",Тонус ТВ
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2787.m3u8
+#EXTINF:-1 group-title="Телеканали",ТОЧКА ОТРЫВА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5538
+#EXTINF:-1 group-title="Телеканали",Точка отрыва
+http://91.219.23.234:8000/play/96/index.m3u8
+#EXTINF:-1 tvg-id="tochka-otryva" tvg-logo="http://iptvxpix.ml/tochka-otryva.png" group-title="Телеканали",Точка отрыва
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2788.m3u8
+#EXTINF:-1 group-title="Телеканали",ТОЧКА ТВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5567
+#EXTINF:-1 group-title="Телеканали",ТОЧКА УСПЕХА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5151
+#EXTINF:-1 group-title="Телеканали",ТРИ АНГЕЛА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5164
+#EXTINF:-1 group-title="Телеканали",Три ангела
+http://91.219.23.234:8000/play/362/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/1f8967eb3a3e7b9817aac3d136922847_high.png" group-title="Телеканали",ТРК Київ
+https://cdnua03.hls.tv/178/hls/5xw9kjhntsoidugcb4a0z8l1e2qpyfmr/115/stream.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Трофей HD
+http://myott.top/stream/DT6QU63K5VX/357.m3u8
+#EXTINF:-1 group-title="Телеканали",Уже видел HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2930.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/41cfa6b1f3cc04d29538c9ad213ad2eb_high.png" group-title="Телеканали",Україна 24 HD
+https://cdnua03.hls.tv/178/hls/xlyus2j3dmrhe57qt6a1pk8zf4cognwi/396/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/afd777e775073ba387239f7362f3fb43_high.png" group-title="Телеканали",Україна HD
+https://cdnua03.hls.tv/178/hls/h5opy10nu9kgsc2l8qtwabezv3rmxj67/4613/stream.m3u8
+#EXTINF:-1 tvg-logo="https://ulpravda.ru/images/new/favicon.png" group-title="Телеканали",УЛПРАВДА ТВ
+http://live-1.otcnet.ru/pravdatv/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Уникум
+http://91.219.23.234:8000/play/353/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Уникум HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/3066.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/aa1ca1322db37f752bbf74cb953e2e32_high.png" group-title="Телеканали",УНІАН
+https://cdnua03.hls.tv/178/hls/erh41w392ix05bcaouqmzd7kpt8lvf6j/159/stream.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Уніан HD
+http://myott.top/stream/DT6QU63K5VX/341.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Усадьба
+http://myott.top/stream/DT6QU63K5VX/211.m3u8
+#EXTINF:-1 group-title="Телеканали",УСАДЬБА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5549
+#EXTINF:-1 group-title="Телеканали",Усадьба
+http://91.219.23.234:8000/play/29/index.m3u8
+#EXTINF:-1 tvg-id="uchaly-tv" tvg-logo="http://iptvxpix.ml/uchaly-tv.png" group-title="Телеканали",Учалы ТВ
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/356.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Фауна
+http://myott.top/stream/DT6QU63K5VX/401.m3u8
+#EXTINF:-1 group-title="Телеканали",ФЕНИКС+КИНО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5105
+#EXTINF:-1 tvg-id="footbolny" tvg-logo="http://iptvxpix.ml/footbolny.png" group-title="Телеканали",Футбольный HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2437.m3u8
+#EXTINF:-1 group-title="Телеканали",Хит
+http://91.219.23.234:8000/play/97/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Хит HD
+http://myott.top/stream/DT6QU63K5VX/363.m3u8
+#EXTINF:-1 group-title="Телеканали",Хоккей 1
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2428.m3u8
+#EXTINF:-1 group-title="Телеканали",Хоккей 2
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2429.m3u8
+#EXTINF:-1 group-title="Телеканали",Хоккей 3
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2430.m3u8
+#EXTINF:-1 group-title="Телеканали",Хоккей 4
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2431.m3u8
+#EXTINF:-1 group-title="Телеканали",Хоккей 5
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2432.m3u8
+#EXTINF:-1 tvg-id="xokkejny" tvg-logo="http://iptvxpix.ml/xokkejny.png" group-title="Телеканали",Хоккейный HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2434.m3u8
+#EXTINF:-1 tvg-logo="https://cdnua03.hls.tv/cdn/logo/f5c020ec72e24b33b14e6e7bbd3a699f_high.png" group-title="Телеканали",Центральний
+https://cdnua03.hls.tv/178/hls/6q2v78plhegufb5043wdyizjksntcarx/4784/stream.m3u8
+#EXTINF:-1 group-title="Телеканали",Че
+http://185.235.187.10:8888/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Телеканали",ЧЕ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5131
+#EXTINF:-1 group-title="Телеканали",Че
+http://91.219.23.234:8000/play/309/index.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Общероссийскиеche_d0httpmfecliptvazdashcesdismplaylistmpd00" catchup-days="5" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Че
+http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",Че
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/3078.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Чемодан ТВ HD
+http://myott.top/stream/DT6QU63K5VX/399.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Шансон ТВ
+http://myott.top/stream/DT6QU63K5VX/95.m3u8
+#EXTINF:-1 catchup="append" update-code="tvs1610505669Музыкаshanson tv_d0httpmfecliptvazdashshansonsdismplaylistmpd00" catchup-days="3" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}" group-title="Телеканали",Шансон ТВ
+http://mfe.cliptv.az/dash/Shanson_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Телеканали",ШАНТ МУЗЫКА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5370
+#EXTINF:-1 group-title="Телеканали",ШАРМ АРМЕНИЯ КВН
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5364
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Телеканали",Шокирующее HD
+http://myott.top/stream/DT6QU63K5VX/75.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yDVlE5Z.png" group-title="Телеканали",Эхо TV (Рязань)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/369.m3u8
+#EXTINF:-1 group-title="Телеканали",Ю
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5137
+#EXTINF:-1 group-title="Телеканали",Ю
+http://91.219.23.234:8000/play/321/index.m3u8
+#EXTINF:-1 group-title="Телеканали",Ю ТВ
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/3072.m3u8
+#EXTINF:-1 tvg-id="yuvelirochka" tvg-logo="http://iptvxpix.ml/yuvelirochka.png" group-title="Телеканали",Ювелирочка ТВ
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/371.m3u8
+#EXTINF:-1 tvg-logo="https://assets.limehd.tv/uploads/channel/179/thumb_edc216bf063873019db1fa95f0f9b558.png" group-title="Телеканали",ЮТВ (Чебоксары)
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/374.m3u8
