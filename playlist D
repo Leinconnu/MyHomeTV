@@ -1,285 +1,1181 @@
-#EXTM3U
-#EXTINF:0,Первый канал HD
-#EXTGRP:Русские
-http://ip1.orgip.net/101/video.m3u8?token=S933AAA01B
-#EXTINF:0,Первый канал
-#EXTGRP:Русские
-http://ip1.orgip.net/0101/video.m3u8?token=S933AAA01B
-#EXTINF:0,Россия 1 HD
-#EXTGRP:Русские
-http://ip1.orgip.net/102/video.m3u8?token=S933AAA01B
-#EXTINF:0,Россия 1
-#EXTGRP:Русские
-http://ip1.orgip.net/0102/video.m3u8?token=S933AAA01B
-#EXTINF:0,НТВ HD
-#EXTGRP:Русские
-http://ip1.orgip.net/103/video.m3u8?token=S933AAA01B
-#EXTINF:0,НТВ
-#EXTGRP:Русские
-http://ip1.orgip.net/0103/video.m3u8?token=S933AAA01B
-#EXTINF:0,ТНТ HD
-#EXTGRP:Русские
-http://ip1.orgip.net/104/video.m3u8?token=S933AAA01B
-#EXTINF:0,ТНТ
-#EXTGRP:Русские
-http://ip1.orgip.net/0104/video.m3u8?token=S933AAA01B
-#EXTINF:0,Пятый Канал
-#EXTGRP:Русские
-http://ip1.orgip.net/105/video.m3u8?token=S933AAA01B
-#EXTINF:0,РЕН ТВ HD
-#EXTGRP:Русские
-http://ip1.orgip.net/106/video.m3u8?token=S933AAA01B
-#EXTINF:0,РЕН ТВ
-#EXTGRP:Русские
-http://ip1.orgip.net/0106/video.m3u8?token=S933AAA01B
-#EXTINF:0,СТС HD
-#EXTGRP:Русские
-http://ip1.orgip.net/107/video.m3u8?token=S933AAA01B
-#EXTINF:0,СТС
-#EXTGRP:Русские
-http://ip1.orgip.net/0107/video.m3u8?token=S933AAA01B
-#EXTINF:0,Звезда HD
-#EXTGRP:Русские
-http://ip1.orgip.net/108/video.m3u8?token=S933AAA01B
-#EXTINF:0,Звезда
-#EXTGRP:Русские
-http://ip1.orgip.net/0108/video.m3u8?token=S933AAA01B
-#EXTINF:0,ТВ Центр
-#EXTGRP:Русские
-http://ip1.orgip.net/109/video.m3u8?token=S933AAA01B
-#EXTINF:0,Домашний
-#EXTGRP:Русские
-http://ip1.orgip.net/110/video.m3u8?token=S933AAA01B
-#EXTINF:0,Че
-#EXTGRP:Русские
-http://ip1.orgip.net/111/video.m3u8?token=S933AAA01B
-#EXTINF:0,Пятница HD
-#EXTGRP:Русские
-http://ip1.orgip.net/112/video.m3u8?token=S933AAA01B
-#EXTINF:0,Пятница
-#EXTGRP:Русские
-http://ip1.orgip.net/0112/video.m3u8?token=S933AAA01B
-#EXTINF:0,Россия-24
-#EXTGRP:Русские
-http://ip1.orgip.net/113/video.m3u8?token=S933AAA01B
-#EXTINF:0,Москва 24
-#EXTGRP:Русские
-http://ip1.orgip.net/114/video.m3u8?token=S933AAA01B
-#EXTINF:0,Дождь
-#EXTGRP:Русские
-http://ip1.orgip.net/115/video.m3u8?token=S933AAA01B
-#EXTINF:0,Культура
-#EXTGRP:Русские
-http://ip1.orgip.net/117/video.m3u8?token=S933AAA01B
-#EXTINF:0,РБК
-#EXTGRP:Русские
-http://ip1.orgip.net/118/video.m3u8?token=S933AAA01B
-#EXTINF:0,ТВ3
-#EXTGRP:Русские
-http://ip1.orgip.net/119/video.m3u8?token=S933AAA01B
-#EXTINF:0,ТНТ4
-#EXTGRP:Русские
-http://ip1.orgip.net/121/video.m3u8?token=S933AAA01B
-#EXTINF:0,Мир
-#EXTGRP:Русские
-http://ip1.orgip.net/122/video.m3u8?token=S933AAA01B
-#EXTINF:0,ОТР
-#EXTGRP:Русские
-http://ip1.orgip.net/123/video.m3u8?token=S933AAA01B
-#EXTINF:0,ЮТВ
-#EXTGRP:Русские
-http://ip1.orgip.net/124/video.m3u8?token=S933AAA01B
-#EXTINF:0,СТС Love
-#EXTGRP:Русские
-http://ip1.orgip.net/125/video.m3u8?token=S933AAA01B
-#EXTINF:0,Супер
-#EXTGRP:Русские
-http://ip1.orgip.net/126/video.m3u8?token=S933AAA01B
-#EXTINF:0,Анекдот ТВ
-#EXTGRP:Русские
-http://ip1.orgip.net/127/video.m3u8?token=S933AAA01B
-#EXTINF:0,RTVi
-#EXTGRP:Русские
-http://ip1.orgip.net/132/video.m3u8?token=S933AAA01B
-#EXTINF:0,Сарафан
-#EXTGRP:Русские
-http://ip1.orgip.net/133/video.m3u8?token=S933AAA01B
-#EXTINF:0,Известия HD
-#EXTGRP:Русские
-http://ip1.orgip.net/134/video.m3u8?token=S933AAA01B
-#EXTINF:0,Известия
-#EXTGRP:Русские
-http://ip1.orgip.net/0134/video.m3u8?token=S933AAA01B
-#EXTINF:0,Первый канал СНГ
-#EXTGRP:Русские
-http://ip1.orgip.net/135/video.m3u8?token=S933AAA01B
-#EXTINF:0,РТР Планета
-#EXTGRP:Русские
-http://ip1.orgip.net/131/video.m3u8?token=S933AAA01B
-#EXTINF:0,МИР HD
-#EXTGRP:Русские
-http://ip1.orgip.net/136/video.m3u8?token=S933AAA01B
-#EXTINF:0,IZ
-#EXTGRP:Русские
-http://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
-#EXTINF:0,Говорит Москва
-#EXTGRP:Русские
-http://video.govoritmoskva.ru:8080/rufm/index.m3u8
-#EXTINF:0,Евроновости
-#EXTGRP:Русские
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:0,Мир 24
-#EXTGRP:Русские
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:0,9 Канал
-#EXTGRP:Русские
-http://ip1.orgip.net/390/video.m3u8?token=S933AAA01B
-#EXTINF:0,Первый канал (+2)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/180/video.m3u8?token=S933AAA01B
-#EXTINF:0,Первый канал (+4)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/181/video.m3u8?token=S933AAA01B
-#EXTINF:0,Первый канал (+6)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/192/video.m3u8?token=S933AAA01B
-#EXTINF:0,Первый канал (+9)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/159/video.m3u8?token=S933AAA01B
-#EXTINF:0,Россия 1 (+2)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/182/video.m3u8?token=S933AAA01B
-#EXTINF:0,Россия 1 (+4)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/183/video.m3u8?token=S933AAA01B
-#EXTINF:0,Россия 1 (+6)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/193/video.m3u8?token=S933AAA01B
-#EXTINF:0,Россия 1 (+9)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/160/video.m3u8?token=S933AAA01B
-#EXTINF:0,НТВ (+2)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/184/video.m3u8?token=S933AAA01B
-#EXTINF:0,НТВ (+4)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/185/video.m3u8?token=S933AAA01B
-#EXTINF:0,НТВ (+7)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/194/video.m3u8?token=S933AAA01B
-#EXTINF:0,ТНТ (+2)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/186/video.m3u8?token=S933AAA01B
-#EXTINF:0,ТНТ (+4)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/196/video.m3u8?token=S933AAA01B
-#EXTINF:0,ТНТ (+7)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/197/video.m3u8?token=S933AAA01B
-#EXTINF:0,Пятый Канал (+2)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/187/video.m3u8?token=S933AAA01B
-#EXTINF:0,Пятый Канал (+4)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/172/video.m3u8?token=S933AAA01B
-#EXTINF:0,Пятый Канал (+7)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/173/video.m3u8?token=S933AAA01B
-#EXTINF:0,РЕН ТВ (+2)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/188/video.m3u8?token=S933AAA01B
-#EXTINF:0,РЕН ТВ (+7)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/195/video.m3u8?token=S933AAA01B
-#EXTINF:0,СТС (+2)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/189/video.m3u8?token=S933AAA01B
-#EXTINF:0,СТС (+4)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/174/video.m3u8?token=S933AAA01B
-#EXTINF:0,СТС (+7)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/175/video.m3u8?token=S933AAA01B
-#EXTINF:0,Звезда (+2)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/191/video.m3u8?token=S933AAA01B
-#EXTINF:0,Звезда (+4)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/166/video.m3u8?token=S933AAA01B
-#EXTINF:0,Звезда (+7)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/167/video.m3u8?token=S933AAA01B
-#EXTINF:0,ТВ Центр (+2)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/190/video.m3u8?token=S933AAA01B
-#EXTINF:0,ТВ Центр (+4)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/164/video.m3u8?token=S933AAA01B
-#EXTINF:0,ТВ Центр (+7)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/165/video.m3u8?token=S933AAA01B
-#EXTINF:0,Домашний (+2)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/199/video.m3u8?token=S933AAA01B
-#EXTINF:0,Домашний (+4)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/176/video.m3u8?token=S933AAA01B
-#EXTINF:0,Домашний (+7)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/177/video.m3u8?token=S933AAA01B
-#EXTINF:0,Пятница (+2)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/198/video.m3u8?token=S933AAA01B
-#EXTINF:0,Пятница (+4)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/178/video.m3u8?token=S933AAA01B
-#EXTINF:0,Пятница (+7)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/179/video.m3u8?token=S933AAA01B
-#EXTINF:0,ТВ3 (+2)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/168/video.m3u8?token=S933AAA01B
-#EXTINF:0,ТВ3 (+4)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/169/video.m3u8?token=S933AAA01B
-#EXTINF:0,ТНТ4 (+2)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/161/video.m3u8?token=S933AAA01B
-#EXTINF:0,ТНТ4 (+4)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/162/video.m3u8?token=S933AAA01B
-#EXTINF:0,ТНТ4 (+7)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/163/video.m3u8?token=S933AAA01B
-#EXTINF:0,Disney Channel (+4)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/170/video.m3u8?token=S933AAA01B
-#EXTINF:0,Disney Channel (+7)
-#EXTGRP:Каналы +2,+4,+6,+7
-http://ip1.orgip.net/171/video.m3u8?token=S933AAA01B
+#EXTM3U url-tvg="http://158.101.194.132:8080/epg.xml.gz?q=eyJ1c2VySWQiOiJGb3J1bVRWIn0.aY1kebaWzToPDMdBcDIvRKvjlnFBRVqdQa10yycq61QZIIiNuXpGCQyJNnmVxPEDx1R0Te58xUEn1WcOZwInHw" description="Medium" size="Medium" background="#11609e"
+#EXTINF:-1 tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1464616189118.png" tvg-shift="0" tvg-id="hlsproxy-9184" group-title="Развлекательные",#НАШЕ Music HD
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/279f0ef6/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1553687953730.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",#ё
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/c66d69b/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-880" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/hj26totwjhswhzu/kan12.jpg",12 канал
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/4678a1a0/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-276" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/2x2.png",2x2 (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/853effb/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-276" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4" tvg-logo="http://158.101.194.132:8080/logos/2x2.png",2x2 (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/853f039/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-276" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/2x2.png",2x2 (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/853f096/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-276" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/2x2.png",2х2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n7f8bcc2e/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="50FPS" tvg-shift="0" tvg-id="hlsproxy-134" tvg-logo="http://158.101.194.132:8080/logos/podmoskovie.png",360 HD
+http://158.101.194.132:8080/channel/24ecdd3d/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://158.101.194.132:8080/archive/4f5609fe-${start}-${duration}.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1454325697938.png" tvg-shift="0" tvg-id="hlsproxy-591" group-title="Развлекательные",360 TuneBOX
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/4f5609fe/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-2659" tvg-logo="https://dl.dropboxusercontent.com/s/mo6pgd10ok91pcn/41reg.png",41 Регион
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n4e944131/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-51038" tvg-logo="https://dl.dropboxusercontent.com/s/fnf40wmgaom1z4j/43.jpg",43 Регион (Киров)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/498c0a8/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-dv.svc.iptv.rt.ru:8080/images/hd/channel/broadcastChannel1450147767086.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-8529",6ТВ
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://158.101.194.132:8080/channel/n7f8bbd87/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-20024" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/l6hmz3ztysor2g5/7kras.jpg",7 канал Красноярск
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/11fe3126/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-2054" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/ln4oqitvxru8mua/8vl.png",8 канал Владивосток
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/2a85dff1/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-6069" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/proxy/https://www.lyngsat-logo.com/logo/tv/num/8_tv_ru_krasnoyarsk.png",8 канал Красноярский край
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n3eda6557/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-8310" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/1ap7eu78fu43myn/8nvsk.png",8 канал Новосибирск
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n75dba6b5/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-21" catchup="append" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1578982058897.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",9 Волна
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n66ef0972/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="50FPS" tvg-shift="0" tvg-id="hlsproxy-31" tvg-logo="http://158.101.194.132:8080/logos/amedia-premium-hd.png",Amedia Premium HD
+http://158.101.194.132:8080/channel/4d570d54/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://158.101.194.132:8080/archive/145e517-${start}-${duration}.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1454678947994.png" tvg-shift="0" tvg-id="hlsproxy-152" group-title="Развлекательные",EU music
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/145e517/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-54868" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" - 4K" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/eurosport-4k.png",Eurosport 4K
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n5f172563/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="50FPS" tvg-shift="0" tvg-id="hlsproxy-82" tvg-logo="http://158.101.194.132:8080/logos/fox-hd.png",FOX HD
+http://158.101.194.132:8080/channel/46cb6b7b/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://158.101.194.132:8080/archive/3fb152f5-${start}-${duration}.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1454331187105.png" tvg-shift="0" tvg-id="hlsproxy-571" group-title="Развлекательные",FashionBOX
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/3fb152f5/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://158.101.194.132:8080/archive/n4b0c1958-${start}-${duration}.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1454331168889.png" tvg-shift="0" tvg-id="hlsproxy-50251" group-title="Развлекательные",Fast&FunBOX HD
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/n4b0c1958/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1486472451667.png" tvg-shift="0" tvg-id="hlsproxy-374" group-title="Развлекательные",ID Fashion HD
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/353d7387/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://158.101.194.132:8080/archive/n6a67e6d7-${start}-${duration}.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1454059961105.png" tvg-shift="0" tvg-id="hlsproxy-271" group-title="Развлекательные",K2
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/n6a67e6d7/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="50FPS" tvg-shift="0" tvg-id="hlsproxy-274" tvg-logo="http://158.101.194.132:8080/logos/khl-prime.png",KHL Prime HD
+http://158.101.194.132:8080/channel/n7d890044/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-22077" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/hvaz0lm8zcnleaa/KURGAN.RU.jpg",Kurgan.ru
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n4d210e8/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-55105" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/love-nature-4k.png",Love Nature 4K
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n3529bff1/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://158.101.194.132:8080/archive/n5c5e0b96-${start}-${duration}.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1454066528025.png" tvg-shift="0" tvg-id="hlsproxy-109" group-title="Развлекательные",MCM TOP
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/n5c5e0b96/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://158.101.194.132:8080/archive/633d17b3-${start}-${duration}.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1454325206043.png" tvg-shift="0" tvg-id="hlsproxy-115" group-title="Развлекательные",MTV Hits
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/633d17b3/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://158.101.194.132:8080/archive/4f5439b-${start}-${duration}.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1454340762850.png" tvg-shift="0" tvg-id="hlsproxy-118" group-title="Развлекательные",MTV Rocks
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/4f5439b/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-8622" tvg-logo="http://158.101.194.132:8080/logos/mtv-mix.png",MTVmix
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/49349bfa/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://158.101.194.132:8080/archive/5c651d8c-${start}-${duration}.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1454066303059.png" tvg-shift="0" tvg-id="hlsproxy-125" group-title="Развлекательные",MusicBox Украина
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/5c651d8c/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="50FPS" tvg-shift="0" tvg-id="hlsproxy-130" tvg-logo="http://158.101.194.132:8080/logos/national-geographic-hd.png",National Geographic HD
+http://158.101.194.132:8080/channel/36280ac5/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="50FPS" tvg-shift="0" tvg-id="hlsproxy-128" tvg-logo="http://158.101.194.132:8080/logos/nat-geo-wild-hd.png",National Geographic Wild HD
+http://158.101.194.132:8080/channel/223990c9/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://158.101.194.132:8080/archive/2d3aa214-${start}-${duration}.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1454065622993.png" tvg-shift="0" tvg-id="hlsproxy-50496" group-title="Развлекательные",OTV Music
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/2d3aa214/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-52651" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" - 4K" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/russian-extreme-ultra.png",Russian Extreme Ultra HD
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/69d6ba7e/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1510234215486.png" tvg-shift="0" tvg-id="hlsproxy-53912" group-title="Развлекательные",Star Family
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/n52bb60b0/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-20896" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tatar_music_tv_ru.png",TMTV
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n71ed2678/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-532" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1466425125928.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",UGRA TRAVEL
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/4642386c/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-54661" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/ulrta-hd-cinema.png",Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n524299cc/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://158.101.194.132:8080/archive/n7001c8ab-${start}-${duration}.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1483438129766.png" tvg-shift="0" tvg-id="hlsproxy-205" group-title="Развлекательные",Zoom
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/n7001c8ab/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://158.101.194.132:8080/archive/7ea22f87-${start}-${duration}.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1591347105288.png" tvg-shift="0" tvg-id="hlsproxy-54711" group-title="Развлекательные",club MTV
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/7ea22f87/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-522" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/3lhx7em5ue9ekp0/aist.png",АИСТ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n702bdd0a/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1609227577602.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",АСТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n702bbb32/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-7177" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/vu3a199fc7pijmj/atv-st.jpg",АТВ-Медиа
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/4dccd979/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-7177" catchup="append" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1397211521478.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",АТВ-Ставрополь
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/54dfbe8b/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1491374943294.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-8193",Амурское областное телевидение
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/6575d337/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-8024" catchup="append" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1436946418821.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Ариг Ус 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/3ffbb6fc/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-53855" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/bd4kxtr91qupvcq/arctic.jpg",Арктик-ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n4920aa4a/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1542282104030.jpg" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-54945",Арктика 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/26ceb6b9/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-545" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/proxy/https://www.lyngsat-logo.com/logo/tv/aa/astrakhan_24_ru.png",Астрахань 24 HD
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n78b08d8/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-223" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/u7i821zl5h1e44b/afont.png",Афонтово
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n40f724b8/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-284" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/bst-ru.png",БСТ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n7f7d447b/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-53825" catchup="append" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1417416030345.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Барс плюс
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n30dd327e/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-284" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/proxy/https://www.lyngsat-logo.com/logo/tv/bb/bashkortostan-24-ru.png",Башкортостан 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/nf241488/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-504" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/bvymnwnkxgu7a3d/belgor24.png",Белгород 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n6ee62b1f/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://158.101.194.132:8080/archive/173a869d-${start}-${duration}.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1454322903581.png" tvg-shift="0" tvg-id="hlsproxy-503" group-title="Развлекательные",Бигуди
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/173a869d/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-224" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/proxy/https://www.lyngsat-logo.com/logo/tv/bb/bryanskaya_guberniya_ru.png",Брянская Губерния
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n716aa53a/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-51111" catchup="append" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1430820591276.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",ВОТтв
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/6acf30d9/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1590403623275.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-2656",ВТК «Аргус»
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/48ac5be2/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-22081" catchup="append" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1449146742795.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Вариант V
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n72b638f8/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru:8080/images/broadcastChannel1529493225585.jpg" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-100163",Вектор 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/6911dea8/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-10152" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1477979855494.jpg" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Ветта 24 Пермь
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n5b1c40a4/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-229" catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1346062226859.gif" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Волга
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/6ade18bf/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-8068" catchup="append" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1472218027991.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Волгоград 1
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n5971d3f1/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-8069" catchup="append" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1447837392513.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Волгоград-24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/2b3786f1/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-54734" catchup="append" tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1528520081978.jpg" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Восток 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n7dbaa8f4/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-54329" catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/nclogo1555680096248.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Время Н
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/2ed49cea/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-505" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/99acga55nsh58bs/ufa.png",Вся Уфа
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/30197d82/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-54" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/q06h1e2r0blplon/vsetv.jpg",Всё ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/nef60325/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-55069" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/jzzojhjgvbwnomu/gorodbr.png",Городской Брянск
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/173bda24/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-53856" catchup="append" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1554195912035.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Городской телеканал Ярославль
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n1edcf06f/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-30" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/vcks7qwyvazysfk/gubern.png",Губерния
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n54da812b/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-862" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/kuwymq26thicipq/gubernia33.png",Губерния 33 HD
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n7660424f/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-235" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/lp9lmzhb9rh97q8/guberniasamara.jpg",Губерния Самара
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n66dba942/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-6046" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/proxy/https://www.lyngsat-logo.com/logo/tv/dd/don_24_tv_ru.png",ДОН 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/nd91a9c4/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="matur-tv" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Девон-Инфо
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/55d971e9/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-8097" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/pu5jgmnt5emq2f8/9ka.png",Девятка ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/1abc45a3/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-51193" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/o9sa3ykutisf4es/dzerzinsk.jpg",Дзержинск ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n449b46e9/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-242" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/moskva-doverie.png",Доверие
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n6af5cc3d/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-246" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/domashniy.png",Домашний
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/1d09ffa1/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-246" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/domashniy.png",Домашний (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n27109c67/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-246" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4" tvg-logo="http://158.101.194.132:8080/logos/domashniy.png",Домашний (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n27109c29/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-246" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/domashniy.png",Домашний (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n27109bcc/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="50FPS" tvg-shift="0" tvg-id="hlsproxy-246" tvg-logo="http://158.101.194.132:8080/logos/domashniy.png",Домашний HD
+http://158.101.194.132:8080/channel/n71b59766/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="evrasia" catchup="append" tvg-logo="https://i.imgur.com/3w7s2wT.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Евразия
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n49c6d6ec/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="50FPS" tvg-shift="0" tvg-id="hlsproxy-250" tvg-logo="http://158.101.194.132:8080/logos/eda-hd.png",Еда Премиум HD
+http://158.101.194.132:8080/channel/12ae3ef0/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-254" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ee/enisey_tv_ru.png",Енисей
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/na0bb23e/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-7192" catchup="append" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1492405937411.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Заб.TV 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/3c7730dd/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-259" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/zvezda.png",Звезда
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n73e865a/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-259" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/zvezda.png",Звезда (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n10a39b4c/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-259" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4" tvg-logo="http://158.101.194.132:8080/logos/zvezda.png",Звезда (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n10a39b0e/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-259" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/zvezda.png",Звезда (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n10a39ab1/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-51136" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/rh7qc32cangha4f/iot.png",Ивановское общественное телевидение
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n499dd558/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1558583498243.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-54767",Импульс
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/65f6edfb/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1550219145300.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-53970",Инфо 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/67e009b6/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1451465947466.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-54698",КРАСНОДАР он-лайн
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/3ec16d26/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-54697" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/scgpcyxj6asosz8/ktv.jpg",КТВ-Город
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/17fea11b/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-231" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/proxy/https://www.lyngsat-logo.com/logo/tv/num/1_kbr_ru.png",Кабардино-Балкария
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n4181ed51/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-55225" catchup="append" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1575461682062.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Кавказ 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/4e2d76f0/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1576718811392.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-100100",Камчатка
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n570cea0a/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-66" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/disney-kanal.png",Канал Disney
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n511c2fd1/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-66" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4" tvg-logo="http://158.101.194.132:8080/logos/disney-kanal.png",Канал Disney (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/6907bc09/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-66" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/disney-kanal.png",Канал Disney (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/6907bc66/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-277" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/karusel.png",Карусель
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n506a5bd5/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-277" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/karusel.png",Карусель (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n1478fab1/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-277" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4" tvg-logo="http://158.101.194.132:8080/logos/karusel.png",Карусель (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n1478fa73/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-277" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/karusel.png",Карусель (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n1478fa16/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-1017" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/bgdymsivpj4stbb/kaskad24.png",Каскад
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n236ac40/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1425535253255.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-51088",Катунь 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n53527a11/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://158.101.194.132:8080/archive/n4ccf8153-${start}-${duration}.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1484038539888.png" tvg-shift="0" tvg-id="hlsproxy-22072" group-title="Развлекательные",Квартал ТВ
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/n4ccf8153/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="50FPS" tvg-shift="0" tvg-id="hlsproxy-331" tvg-logo="http://158.101.194.132:8080/logos/kinopremiera-hd.png",Кинопремьера HD
+http://158.101.194.132:8080/channel/n1584a72/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-333" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kuban_24_ru.png",Кубань 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n415228a2/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1578629022322.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-669",Кузбасс 1 HD
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/5476abeb/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-210" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ll/len-tv-24-ru.png",Лен ТВ 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/2f25bb28/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-598" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ll/lipetskoye_vremya_ru.png",Липецкое время
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/bab5365/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://158.101.194.132:8080/archive/n6a677089-${start}-${duration}.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1454342045465.png" tvg-shift="0" tvg-id="hlsproxy-296" group-title="Развлекательные",М1
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/n6a677089/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1483438307638.png" tvg-shift="0" tvg-id="hlsproxy-297" group-title="Развлекательные",М2 Эстрада
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/n667afc2e/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-54548" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/xfxuygbdv1jxixi/metr.png",МЭТР
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n702619a4/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-302" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/proxy/https://www.lyngsat-logo.com/logo/tv/mm/maidan_tv_ru.png",Майдан
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/12f4b89/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-333" tvg-logo="http://158.101.194.132:8080/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kuban_24_ru.png",Майкопское Телевидение
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/7e9c0af9/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-54465" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/matur-tv.png",Матур ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n7d4e1b4e/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="50FPS" tvg-shift="0" tvg-id="hlsproxy-392" tvg-logo="http://158.101.194.132:8080/logos/match-tv-hd.png",Матч! FHD
+http://158.101.194.132:8080/channel/41ffffdc/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-22083" catchup="append" tvg-logo="https://i.imgur.com/L4Cy4jw.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Миг ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/18dfc66/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1454332654680.png" tvg-shift="0" tvg-id="hlsproxy-653" group-title="Развлекательные",Миледи ТВ
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/11f6daf4/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-299" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/mir.png",Мир
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n7f7d1849/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-299" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/mir.png",Мир (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n15ade6bd/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-299" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4" tvg-logo="http://158.101.194.132:8080/logos/mir.png",Мир (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n15ade67f/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-299" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/mir.png",Мир (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n15ade622/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-307" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/rim8mxigl2c1v0n/mirbel.png",Мир Белогорья
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n2f1849f8/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1553783249761.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-55483",Мордовия-24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n3d7219bf/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-310" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/moskva24.png",Москва 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/3e9d425c/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-301" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/muz.png",Муз ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/22ad06d/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-301" catchup="append" tvg-shift="+2" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-logo="http://158.101.194.132:8080/logos/muz.png",Муз ТВ (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/73ed324d/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-301" catchup="append" tvg-shift="+4" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-logo="http://158.101.194.132:8080/logos/muz.png",Муз ТВ (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/73ed328b/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-301" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/muz.png",Муз ТВ (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/73ed32e8/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1569900834559.jpg" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Муравленко 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n22c8db97/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-2027" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/8mdnyrthhihncy6/m-i-g.jpg",Мы и город
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n2602a6a1/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-316" catchup="append" tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1377476946874.jpg" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",НВК (Саха)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/5e96bdaf/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-8072" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nntv-ru.png",ННТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n7025e163/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-15" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nsk_49_ru.png",НСК 49
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/1f2dd7c/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-319" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/ntv.png",НТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n7f7d1760/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-1" tvg-id="hlsproxy-319" tvg-logo="http://158.101.194.132:8080/logos/ntv.png",НТВ (+1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/77eb41db/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-319" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/ntv.png",НТВ (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/77eb41fa/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-319" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4" tvg-logo="http://158.101.194.132:8080/logos/ntv.png",НТВ (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/77eb4238/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-319" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/ntv.png",НТВ (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/77eb4295/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-319" tvg-logo="http://158.101.194.132:8080/logos/ntv-hd.png",НТВ HD
+http://158.101.194.132:8080/channel/bccc25d/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="50FPS" tvg-shift="0" tvg-id="hlsproxy-319" tvg-logo="http://158.101.194.132:8080/logos/ntv-hd.png",НТВ HD
+http://158.101.194.132:8080/channel/bccc25d/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-561" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/kizqaonqnlte6c8/ntkkz.png",НТК
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n7f7d1758/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-55401" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/eyg5dttw9ve6g0k/ntn24.png",НТН 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/20251d7/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-12019" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ii/ingushetia_tv_ru.png",НТРК Ингушетия
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n2d9fe25d/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-2615" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/ndubxdf8kqthzd6/ntsirk.png",НТС Иркутск
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/46b36759/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-355" tvg-logo="https://dl.dropboxusercontent.com/s/b8v2w90b5t02s1c/nts-irbit.png",НТС-Ирбит (Екатеринбург)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n3d28f360/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1490273937894.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-226",Народное телевидение Мордовии
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/ncaa171a/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="50FPS" tvg-shift="0" tvg-id="hlsproxy-100031" tvg-logo="http://158.101.194.132:8080/logos/nauka-rus.png",Наука HD
+http://158.101.194.132:8080/channel/n409330dc/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1346063230148.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Национальное ТВ Чувашии
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n2b2e79e6/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-7165" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/cb622odnltpp1zu/nashdom.png",Наш дом
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/5899415a/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-54643" catchup="append" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1601556719436.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Наша Сибирь 4К
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n71125a5c/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1386141072221.jpg" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-2029",Наши города
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/7340f755/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-515" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nika_tv_ru.png",Ника-ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/67445d5f/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-1008" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/vef8olsiau5mgw2/nt.jpg",Новгородское областное телевидение
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n5610a258/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-52971" tvg-logo="https://dl.dropboxusercontent.com/s/b9dhpxpmje3ajnk/2k-rad.jpg",Новое время (Радужный)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/7225ff18/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://158.101.194.132:8080/archive/n596b1183-${start}-${duration}.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1454058895253.png" tvg-shift="0" tvg-id="hlsproxy-348" group-title="Развлекательные",Новый
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/n596b1183/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-682" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/uvw347lj8n4fdq6/n-vek.png",Новый век (Тамбов)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n5eda60bf/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1534838553950.png" tvg-shift="0" tvg-id="hlsproxy-348" group-title="Развлекательные",Новый мост
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/505dbee6/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-2028" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/6mvet70tkrzmgjh/noyabr24.png",Ноябрьск 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/6671210d/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-10158" catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1441701959690.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",ОРТ-Планета (Оренбург)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/4f6b6472/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-608" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1424249302577.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",ОТВ Екатеринбург
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n2d9f175/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-43" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1346318646246.gif" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",ОТВ Челябинск HD
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/67cbcd6e/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-161" catchup="append" tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1337313084564.jpg" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",ОТВ-Владивосток
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n2246f418/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-681" catchup="append" tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1492135002532.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",ОТВ-Сахалин
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/3361afda/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-325" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/otr-ru.png",ОТР
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n7f7d1391/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-325" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/otr-ru.png",ОТР (Астрахань)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n1f9cd55b/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-325" catchup="append" tvg-shift="-9" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-logo="http://158.101.194.132:8080/logos/otr-ru.png",ОТР (Благовещенск)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n67ae9364/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-325" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/otr-ru.png",ОТР (Владивосток)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/3005898c/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-325" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/otr-ru.png",ОТР (Еврейская АО)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/523d3863/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-325" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/otr-ru.png",ОТР (Екатеринбург)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n631b0eda/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-325" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/otr-ru.png",ОТР (Кабардино-Балкария)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n35467c50/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-325" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/otr-ru.png",ОТР (Оренбург)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/50aa5483/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-325" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/otr-ru.png",ОТР (Сыктывкар)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/3bbe86ef/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-325" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/otr-ru.png",ОТР (Якутия)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/1936fb91/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-356" catchup="append" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1425535153424.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",ОТС
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n7f7d1390/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1509527248631.png" tvg-shift="0" tvg-id="hlsproxy-147" group-title="Развлекательные",ОЦЕ
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/1d79e5ab/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1574910981778.jpg" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-100101",Область 45
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n6da58415/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-2030" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1449575420582.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Объектив 59
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n12eb229/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-53964" catchup="append" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/nclogo1562670323687.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Осетия-Ирыстон
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n39383816/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1543497695427.png" tvg-shift="0" tvg-id="hlsproxy-202" group-title="Развлекательные",Открытый
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/n6a0c4b8f/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="50FPS" tvg-shift="0" tvg-id="hlsproxy-511" tvg-logo="http://158.101.194.132:8080/logos/ohotnik-i-rybolov-hd.png",Охотник и Рыболов HD
+http://158.101.194.132:8080/channel/5868d367/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-362" tvg-logo="http://158.101.194.132:8080/logos/perviy-hd.png",Первый Канал HD
+http://158.101.194.132:8080/channel/129dc566/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-630" catchup="append" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/nclogo1524672781681.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Первый Тульский
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n4bd68e57/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-1026" catchup="append" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1455621667022.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Первый Ярославский
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/4d0c8286/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-53750" catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1356582072221.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Первый городской (Нижний Новгород)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n488b3f44/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-54753" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/nk0j7yzl3o63g1j/1gor-omsk.png",Первый городской (Омск)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/67ed3e28/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1362025932567.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-54753",Первый городской канал в Кирове
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n6e7ea827/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-362" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/perviy.png",Первый канал
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n130a10b/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-362" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-1" tvg-logo="http://158.101.194.132:8080/logos/perviy.png",Первый канал (+1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n9fb875a/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-362" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/perviy.png",Первый канал (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n9fb873b/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-362" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-3" tvg-logo="http://158.101.194.132:8080/logos/perviy.png",Первый канал (+3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n9fb871c/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-362" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4" tvg-logo="http://158.101.194.132:8080/logos/perviy.png",Первый канал (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n9fb86fd/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-362" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-5" tvg-logo="http://158.101.194.132:8080/logos/perviy.png",Первый канал (+5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n9fb86de/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-362" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-6" tvg-logo="http://158.101.194.132:8080/logos/perviy.png",Первый канал (+6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n9fb86bf/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-362" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/perviy.png",Первый канал (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n9fb86a0/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-362" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-8" tvg-logo="http://158.101.194.132:8080/logos/perviy.png",Первый канал (+8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n9fb8681/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-362" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-9" tvg-logo="http://158.101.194.132:8080/logos/perviy.png",Первый канал (+9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n9fb8662/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-362" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4" tvg-logo="http://158.101.194.132:8080/logos/perviy-hd.png",Первый канал HD (+4)
+http://158.101.194.132:8080/channel/nb79cf3f/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-602" catchup="append" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1418032531171.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Первый областной
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n751836ee/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="50FPS" tvg-shift="0" tvg-id="hlsproxy-455" tvg-logo="http://158.101.194.132:8080/logos/prikluchenia-hd.png",Приключения HD
+http://158.101.194.132:8080/channel/n45ab6646/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="prima" catchup="append" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1457667979653.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Прима-ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n8c11081/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-8071" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/prodvizhenie.png",Продвижение
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n2f5ff06f/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-377" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/pyatnica.png",Пятница (Краснодар)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n326b46f1/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-377" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/pyatnica.png",Пятница!
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/21edf897/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-377" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/pyatnica.png",Пятница! (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/3f8e9463/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-377" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4" tvg-logo="http://158.101.194.132:8080/logos/pyatnica.png",Пятница! (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/3f8e94a1/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-377" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/pyatnica.png",Пятница! (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/3f8e94fe/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="Развлекательные" tvg-shift="0" tvg-id="hlsproxy-377" tvg-logo="http://158.101.194.132:8080/logos/pyatnica-hd.png",Пятница! HD
+http://158.101.194.132:8080/channel/n3d52378/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-378" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/5-kanal.png",Пятый канал
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/3d655f85/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-378" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/5-kanal.png",Пятый канал (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/5ae85235/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-378" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4" tvg-logo="http://158.101.194.132:8080/logos/5-kanal.png",Пятый канал (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/5ae85273/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-378" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/5-kanal.png",Пятый канал (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/5ae852d0/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-378" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/5-kanal.png",Пятый канал (Москва)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n2fad4e5d/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-378" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/5-kanal.png",Пятый канал (Санкт-Петербург)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n6c45fc6f/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="50FPS" tvg-shift="0" tvg-id="hlsproxy-380" tvg-logo="http://158.101.194.132:8080/logos/rbk.png",РБК HD
+http://158.101.194.132:8080/channel/n6e9053/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-381" catchup="append" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1494852051009.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",РГВК Дагестан
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n511f63c/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-382" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/rentv.png",РЕН ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/66a2815/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-382" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/rentv.png",РЕН ТВ (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n2ca59c5b/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-382" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4" tvg-logo="http://158.101.194.132:8080/logos/rentv.png",РЕН ТВ (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n2ca59c1d/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-382" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/rentv.png",РЕН ТВ (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n2ca59bc0/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-53820" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/i2m0lvjgluex71j/renural.png",РЕН ТВ (Екатеринбург)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n7129cb40/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-2031" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/1uljgt596k4bvc0/rim.png",РИМ (Каменск-Уральский)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n50d91190/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1611046610281.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",РТК «Забайкалье»
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n2010a548/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-552" catchup="append" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1492751843663.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",РТС-Абакан
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n4e1d428d/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-54195" catchup="append" tvg-logo="http://fe-nw.svc.iptv.rt.ru/images/broadcastChannel1527078518634.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Регион 29
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/1727ea1/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-382" tvg-logo="http://158.101.194.132:8080/logos/rentv.png",Рен ТВ
+http://158.101.194.132:8080/channel/120b11f6/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1481118103517.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-8259",Репортер 73
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/7efbc10e/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-54710" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1531138277952.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Рифей-ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n33f62366/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-391" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/rossia1.png",Россия 1
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/5085f73/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-391" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-1" tvg-logo="http://158.101.194.132:8080/logos/rossia1.png",Россия 1 (+1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n3d91e918/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-391" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/rossia1.png",Россия 1 (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n3d91e8f9/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-391" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-3" tvg-logo="http://158.101.194.132:8080/logos/rossia1.png",Россия 1 (+3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n3d91e8da/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-391" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-6" tvg-logo="http://158.101.194.132:8080/logos/rossia1.png",Россия 1 (+6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n3d91e87d/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-391" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/rossia1.png",Россия 1 (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n3d91e85e/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-391" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-8" tvg-logo="http://158.101.194.132:8080/logos/rossia1.png",Россия 1 (+8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n3d91e83f/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-391" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-9" tvg-logo="http://158.101.194.132:8080/logos/rossia1.png",Россия 1 (+9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n3d91e820/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="+1" tvg-id="hlsproxy-391" tvg-logo="http://158.101.194.132:8080/logos/rossia1.png",Россия 1 (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n3d91e196/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-391" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/rossia1.png",Россия 1 (Екатеринбург)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n154d6a5e/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1447120565436.jpg" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-391",Россия 1 (Камчатка)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n28c180bb/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-391" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/rossia1.png",Россия 1 (Краснодар)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/4ed94238/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="rossia1" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Россия 1 (Москва и область)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n3536eb26/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-391" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/rossia1.png",Россия 1 (Оренбург)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/231596ff/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-391" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/rossia1.png",Россия 1 (Сыктывкар)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n49446c0d/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-391" tvg-logo="http://158.101.194.132:8080/logos/rossia1-hd.png",Россия 1 HD
+http://158.101.194.132:8080/channel/n16e4e078/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-393" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/rossia-24.png",Россия 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n63fc70c0/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-393" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/rossia-24.png",Россия 24 (Благовещенск)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n7cb15255/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-393" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/rossia-24.png",Россия 24 (Еврейская АО)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/3d3a7972/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-393" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/rossia-24.png",Россия 24 (Екатеринбург)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n781dcdcb/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-393" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/rossia-24.png",Россия 24 (Омск)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/48040c4a/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-393" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/rossia-24.png",Россия 24 (Оренбург)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n48278aee/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-393" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/rossia-24.png",Россия 24 (Томск)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n40949ee8/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-393" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/rossia-24.png",Россия 24 (Якутия)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n28be0c20/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-395" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/rossiak.png",Россия К
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/508635c/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-395" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/rossiak.png",Россия К (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/6e911cbe/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-395" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4" tvg-logo="http://158.101.194.132:8080/logos/rossiak.png",Россия К (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/6e911cfc/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-395" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/rossiak.png",Россия К (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/6e911d59/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-3092" catchup="append" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1509619921094.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Ростов-папа
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/1fc4d8cf/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1365068702809.jpg" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-596",Русская линия
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n14e2b3c0/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-8199" catchup="append" tvg-logo="http://fe-nw.svc.iptv.rt.ru/images/broadcastChannel1501070278515.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Русский Север
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n63124e4c/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-677" tvg-logo="http://158.101.194.132:8080/proxy/https://www.lyngsat-logo.com/logo/tv/tt/trk_rus_kostroma.png",Русь (Кострома)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n3ee90131/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-51171" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/byoj6vfgy019va2/r40.png",Рыбинск-40
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/1b5d45b2/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-7209" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1369641077824.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",С1 Сургут
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n3b6c81e9/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-9230" tvg-logo="http://158.101.194.132:8080/logos/stv-by.png",СТВ (Симбирское телевидение)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/200f71f3/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-51137" catchup="append" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1540180530448.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",СТВ-Байкал
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n6e5a9a0c/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-407" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/sts.png",СТС
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n7f7d084d/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-407" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/sts.png",СТС (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/3108a6c7/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-407" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4" tvg-logo="http://158.101.194.132:8080/logos/sts.png",СТС (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/3108a705/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-407" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/sts.png",СТС (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/3108a762/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-407" tvg-logo="http://158.101.194.132:8080/logos/sts-hd.png",СТС HD
+http://158.101.194.132:8080/channel/12a6f66a/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="50FPS" tvg-shift="0" tvg-id="hlsproxy-407" tvg-logo="http://158.101.194.132:8080/logos/sts-hd.png",СТС HD
+http://158.101.194.132:8080/channel/12a6f66a/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-409" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/sts-love.png",СТС Love
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/311a0bdf/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-409" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/sts-love.png",СТС Love (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n4d2cb1e5/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-409" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/sts-love.png",СТС Love (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n4d2cb14a/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-549" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/vdb4162fx64wgvx/stsmir.png",СТС-Мир
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/122e4f0a/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-550" tvg-logo="https://dl.dropboxusercontent.com/s/wnbr9v347qr0cnq/sts-prima.jpg",СТС-Прима (Красноярск)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n2b13f3f2/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1455156605611.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-1346",СЭТ ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/9737aa7/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-55285" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/i7bafaptail2r4e/samar24.png",Самара-24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/5cd8d48f/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-8127" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/44hxfeizcy3xr6g/samaragis.png",Самара-Гис
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/3e50cdaf/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-nw.svc.iptv.rt.ru/images/broadcastChannel1544783515312.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-502",Сампо ТВ 360°
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n80587ae/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-8067" catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1416232942441.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Саратов-24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n1c36e5db/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-6061" catchup="append" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1480323433988.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Своё ТВ (Ставрополь)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n610f64cf/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru:8080/images/broadcastChannel1608869783648.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Северный ветер
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://158.101.194.132:8080/channel/44679e39/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-54691" catchup="append" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1487582881774.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Селенга-ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n3eeb1b62/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-8031" tvg-logo="https://dl.dropboxusercontent.com/s/6trgqpt2sc1qqa3/7ka.jpg",Семерка (Иркутск)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/5aecbc63/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://158.101.194.132:8080/archive/32e02c30-${start}-${duration}.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1454323106933.png" tvg-shift="0" tvg-id="hlsproxy-506" group-title="Развлекательные",Солнце
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/32e02c30/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-419" catchup="append" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1579244379155.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Спас
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n70238e64/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-14" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/sox1gc2m6vt0axq/41k.png",Студия-41
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/236a5934/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-431" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/subbota.png",Суббота
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/4d3381dd/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-431" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/subbota.png",Супер (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/4636ccff/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-431" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4" tvg-logo="http://158.101.194.132:8080/logos/subbota.png",Супер (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/4636cd3d/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-431" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/subbota.png",Супер (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/4636cd9a/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-53483" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1482124037811.jpg" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Сургут 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n14871b9f/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-432" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/tv3.png",ТВ 3
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n702444f0/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-432" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/tv3.png",ТВ 3 (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/5864758a/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-432" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4" tvg-logo="http://158.101.194.132:8080/logos/tv3.png",ТВ 3 (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/586475c8/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-432" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/tv3.png",ТВ 3 (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/58647625/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-434" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/tvc.png",ТВ Центр
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n4ff77597/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-434" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/tvc.png",ТВ Центр (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/46c055d1/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-434" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4" tvg-logo="http://158.101.194.132:8080/logos/tvc.png",ТВ Центр (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/46c0560f/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-434" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/tvc.png",ТВ Центр (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/46c0566c/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1578964121507.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-6056",ТВ-7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n70244359/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-12014" catchup="append" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1424271969939.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",ТВ-Губерния
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n2ce36be8/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-54925" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1539083218216.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",ТВ-ИН-Магнитогорск
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n3e1d5ab0/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-690" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/fvwyzlzdgfnd5ex/kolyma.png",ТВ-Колыма-Плюс
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/2cc75984/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-nw.svc.iptv.rt.ru/images/broadcastChannel1469693161772.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-609",ТВ21+
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/6b9bea6f/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-432" tvg-logo="http://158.101.194.132:8080/logos/tv3.png",ТВ3
+http://158.101.194.132:8080/channel/44483b55/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-53766" catchup="append" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1590975929913.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",ТВК 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/9a7b7c5/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-434" tvg-logo="http://158.101.194.132:8080/logos/tvc.png",ТВЦ
+http://158.101.194.132:8080/channel/44483f48/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://158.101.194.132:8080/archive/1d79f2ad-${start}-${duration}.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1568887386808.png" tvg-shift="0" tvg-id="hlsproxy-437" group-title="Развлекательные",ТЕТ
+#EXTVLCOPT:http-user-agent=SmartLabs/5.18005.1795 (sml723x; SML-482) SmartSDK/4.5.63.38.1.11 (https) Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-x-smartlabs-mac-address=E4:27:71:FF:00:FF
+#EXTGRP:Развлекательные
+http://158.101.194.132:8080/channel/1d79f2ad/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1511142233100.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-7201",ТК Центр (Красноярск)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/6e15cf0e/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-589" catchup="append" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1413547799556.jpg" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",ТКР Рязань
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n248b1c4/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-438" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/7z7wy8utazux6uq/tnv-pl.png",ТНВ Планета Урал
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n1f33f63c/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-448" catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1499776279320.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",ТНВ Татарстан
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/36b24dc/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-438" catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1418619961371.jpg" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",ТНВ-Планета
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/695c0377/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/nclogo1591706246568.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",ТНР24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/6bafab1a/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-439" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/tnt-ru.png",ТНТ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n7f7d0526/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-1" tvg-id="hlsproxy-439" tvg-logo="http://158.101.194.132:8080/logos/tnt-ru.png",ТНТ (+1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n6de07c1f/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-439" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/tnt-ru.png",ТНТ (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n6de07c00/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-439" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4" tvg-logo="http://158.101.194.132:8080/logos/tnt-ru.png",ТНТ (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n6de07bc2/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-439" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/tnt-ru.png",ТНТ (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n6de07b65/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-439" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/tnt-ru.png",ТНТ (Краснодар)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n510504e1/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-439" tvg-logo="http://158.101.194.132:8080/logos/tnt-hd-ru.png",ТНТ HD
+http://158.101.194.132:8080/channel/1415cde3/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 group-title="50FPS" tvg-shift="0" tvg-id="hlsproxy-439" tvg-logo="http://158.101.194.132:8080/logos/tnt-hd-ru.png",ТНТ HD
+http://158.101.194.132:8080/channel/1415cde3/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-336" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/tnt4.png",ТНТ4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n70239f66/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-336" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/tnt4.png",ТНТ4 (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n2c8049c0/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-336" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4" tvg-logo="http://158.101.194.132:8080/logos/tnt4.png",ТНТ4 (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n2c804982/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-336" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/tnt4.png",ТНТ4 (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n2c804925/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-636" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/irr7r4pnu6ai2ds/tagil.png",Тагил ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n283d07cb/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-1009" catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1548665394776.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Татарстан-24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/2acc410a/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-20140" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/hc9bcfgbrp7ml8h/tver-region.png",Тверской Проспект
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n69e7789a/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="" catchup="append" tvg-logo="" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Твоя Тюмень
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n4d48d33a/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-450" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/teledom.png",Теледом
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/6ac47af8/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-2515" catchup="append" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1608800820945.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Тео ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/ba5c9b2/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Тестовый HD
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n13146fc7/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-8372" catchup="append" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1484712270808.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",ТиВиСи HD
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n71a9ace4/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-8455" catchup="append" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1436946341048.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Тивиком
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/6f65a4ef/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1567744193036.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-51138",Толк
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n70231c78/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-54547" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="https://dl.dropboxusercontent.com/s/s4mg2mdg3epjgcd/tolpar.png",Толпар ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n7cb9b72d/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-53352" catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/nclogo1555679320129.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Тольятти-24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n4935ef94/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-20141" catchup="append" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1436853093668.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Томское время
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/7a6c21d/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-518" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/tochka-tv.png",Точка ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n216daee4/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-610" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1573450019565.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Тюменское время
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/410baff5/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1521523067617.jpg" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-9181",УТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n7f7d00da/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-53353" catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1432897670387.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Удмуртия
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/23457e9e/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1478000373926.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Универ-ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n4f1808f/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-53909" catchup="append" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1495634512385.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Хамдан-Калмыкия 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n118aa8ab/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-369" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/che.png",Че!
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n7f7cf37a/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-369" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/che.png",Че! (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n45fc622c/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-369" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4" tvg-logo="http://158.101.194.132:8080/logos/che.png",Че! (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n45fc61ee/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-369" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7" tvg-logo="http://158.101.194.132:8080/logos/che.png",Че! (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n45fc6191/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-369" tvg-logo="http://158.101.194.132:8080/logos/che.png",Че! (Омск)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n7edfcbbc/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-424" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/shayan.png",Шаян ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n5f503633/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-54196" catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1496154848835.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Экспресс
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/77c6502d/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1553852171156.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-51176",Эфир
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n701e0634/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-474" catchup="append" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1540215747749.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Ю
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/29b0c081/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-474" catchup="append" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1540215747749.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-2",Ю (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n1b41d147/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-474" catchup="append" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1540215747749.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-4",Ю (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n1b41d109/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-474" catchup="append" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1540215747749.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="-7",Ю (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n1b41d0ac/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-50524" catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1479735787769.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",ЮТВ Чебоксары
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n26f72c16/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Югорск ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n5edd10fd/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-475" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1346319216271.jpg" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Югра
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/n701dd0be/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-479" catchup="append" tvg-logo="http://fe-nw.svc.iptv.rt.ru/images/broadcastChannel1426055023611.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Юрган
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/6c697541/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-12040" catchup="append" tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1555633554644.png" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Якутия 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/1802abf4/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
+#EXTINF:-1 tvg-id="hlsproxy-480" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1370596383460.jpg" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Россия" tvg-shift="0",Ямал-Регион
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://158.101.194.132:8080/channel/3ec011c1/index.m3u8?q=f29fcaa05c821a4d5c7d72e947933efd
 #EXTINF:-1 ,Оплот
+#EXTGRP:Донбасс
 http://tv.newline.in.ua:8686/oplotHD
 #EXTINF:-1 ,Оплот
+#EXTGRP:Донбасс
 http://31.133.57.158/hls/1234.m3u8
 #EXTINF:-1 ,Оплот
+#EXTGRP:Донбасс
 http://ott.inmart.tv:8081/54/index.m3u8
 #EXTINF:-1 ,Оплот
+#EXTGRP:Донбасс
 http://ott.cdn1.inmart.tv:8081/54/index.m3u8
 #EXTINF:-1 ,Оплот 2
+#EXTGRP:Донбасс
 http://tv.newline.in.ua:8686/oplot2
 #EXTINF:-1 ,Оплот 2
+#EXTGRP:Донбасс
 http://ott.inmart.tv:8081/17/index.m3u8
 #EXTINF:-1 ,Новороссия ТВ
+#EXTGRP:Донбасс
 http://ott.cdn1.inmart.tv:8081/19/index.m3u8
 #EXTINF:-1 ,Новороссия ТВ HD
+#EXTGRP:Донбасс
 http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:-1 ,Первый Республиканский
+#EXTGRP:Донбасс
 http://tv.newline.in.ua:8686/1resp
 #EXTINF:-1 ,Первый Республиканский
+#EXTGRP:Донбасс
 http://ott.cdn1.inmart.tv:8081/18/index.m3u8
 #EXTINF:-1 ,Первый республиканский
+#EXTGRP:Донбасс
 http://ott.inmart.tv:8081/18/index.m3u8
 #EXTINF:-1 ,6 ТВ Горловка
+#EXTGRP:Донбасс
 http://ott.inmart.tv:8081/223/index.m3u8
 #EXTINF:-1 ,ЛУГАНСК 24
+#EXTGRP:Донбасс
 https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
